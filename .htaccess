@@ -1,0 +1,2 @@
+RewriteEngine on
+ErrorDocument 404 http://came.org.ar/sustentabilidad2020/404.php
