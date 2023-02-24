@@ -25212,11 +25212,11 @@ label.error {
 #copyrights a {
   display: inline-block;
   margin: 0 3px;
-  color: #333333;
+  color: #c7c7c7;
   border-bottom: 1px dotted #444;
 }
 #copyrights a:hover {
-  color: #555555;
+  color: #dddddd;
   border-bottom: 1px solid #666666;
 }
 #copyrights .text-end a:last-child {

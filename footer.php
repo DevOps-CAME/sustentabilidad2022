@@ -6,21 +6,15 @@
             <div class="row">
                 <div class="col-md-3 no_celu">
                     <div class="widget widget_links clearfix">
-                        <h4 class="ls0 mb-4 nott ">ÍNDICE</h4>
+                        <h4 class="ls0 mb-4 nott " style="color: #EEE !important;">ÍNDICE</h4>
                         <ul class="menu-container">
                             <div class="clear mt-0"></div>
                             <li class="menu-item">
-                                <a class="menu-link" href="sobre_el_reporte.php" data-scrollto="#mensaje_presidente">
-                                    <div>SOBRE EL REPORTE</div>
+                                <a class="menu-link" href="institucional.php">
+                                    <div>INSTITUCIONAL</div>
                                 </a>
                             </li>
-                            <div class="clear"></div>
-                            <li class="menu-item">
-                                <a class="menu-link" href="came.php">
-                                    <div>CAME</div>
-                                </a>
-                            </li>
-                            <div class="clear"></div>
+
 
 
                             <div class="clear mb-1"></div>
@@ -36,40 +30,36 @@
                                         <i class="toggle-open icon-angle-down1"></i>
                                     </div>
                                     <div class="menu-link toggle-title" style="padding-left: 0.6rem">
-                                        RESULTADOS E INDICADORES
+                                        ACCIONES SECTORIALES
                                     </div>
                                 </div>
                                 <div class="toggle-content p-0 m-0"
                                     style="font-size: 0.9rem; padding-left: 1rem !important;">
-                                    <a href="gobernanza.php">
-                                        - Gobernanza y Prácticas Justas de Operación
+                                    <a href="acciones_secretarias.php">
+                                        - Secreatarías y departamentos
                                     </a></br>
 
-                                    <a href="estandares_laborales.php">
-                                        - Estándares Laborales
+                                    <a href="acciones_sectores.php">
+                                        - Sectores
                                     </a></br>
 
-                                    <a href="medio_ambiente.php">
-                                        - Medio Ambiente
+                                    <a href="acciones_rsds.php">
+                                        - Responsabilidad Social y Desarrollo Sustentable
                                     </a></br>
-
-                                    <a href="desarrollo_comunidad.php">
-                                        - Desarrollo de la Comunidad
-                                    </a></br>
-
 
                                 </div>
                             </div>
                             <div class="clear"></div>
                             <li class="menu-item">
-                                <a class="menu-link" href="nuevas_comisiones.php">
-                                    <div>Nuevas comisiones</div>
+                                <a class="menu-link" href="indicadores.php">
+                                    <div>INDICADORES</div>
                                 </a>
                             </li>
+                            <div class="clear"></div>
+
                             <li class="menu-item">
-                                <a class="menu-link" href="proximos_desafios.php"
-                                    data-scrollto="#mision_vision_valores">
-                                    <div>Próximos desafios</div>
+                                <a class="menu-link" href="proximos_desafios.php">
+                                    <div>PRÓXIMOS DESAFIOS</div>
                                 </a>
                             </li>
 
@@ -154,17 +144,16 @@
 
                     <p style="font-size: 0.9rem;line-height: 1.1rem;" class="p-0 m-0">
                         <strong>Coordinación General:</strong>
-                        <a target="_blank" href="https://www.linkedin.com/in/fernandahaisner/">Fernanda Haisner </a>
-                        <a target="_blank" href="https://www.linkedin.com/in/sofiagiovannapenedo/">Sofia Giovanna Penedo
-                        </a>
                         <a target="_blank" href="https://www.linkedin.com/in/micaela-tommasini/"> Micaela
-                            Tommasini</a></br>
+                            Tommasini</a>
+                        <a target="_blank" href="https://www.linkedin.com/in/fernandahaisner/">Fernanda Haisner </a><a
+                            target="_blank" href="https://www.linkedin.com/in/sofiagiovannapenedo/">Sofia Giovanna
+                            Penedo </a></br>
                         <strong>Ilustración:</strong><a href="https://www.behance.net/SABRINAABADIAKEBAT"
                             target="_blank"> Sabrina Abadi Akebat</a></br>
-                        <strong>Desarrollo:</strong>
-                        <a href="https://github.com/Enzosalvo" target="_blank">Enzo Paolo Salvo </a>
-                        <a href="https://github.com/ggracis" target="_blank">Gastón Martín Gracis </a>
-                        <a href="https://github.com/lsantander86" target="_blank">Lucas Santander </a>
+                        <strong>Desarrollo:</strong><a href="https://github.com/Enzosalvo" target="_blank">Enzo Paolo
+                            Salvo </a><a href="https://github.com/ggracis" target="_blank">Gastón Martín Gracis </a><a
+                            href="https://github.com/lsantander86" target="_blank">Lucas Santander </a>
 
                     </p>
                 </div>

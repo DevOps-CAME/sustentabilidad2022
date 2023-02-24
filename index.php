@@ -18,7 +18,7 @@
                     data-start="margin-top: 0px;" data-400="margin-top: 50px;"> -->
                 <img id="sl-came" src="images/CAME.png" alt="" class="slider-img parallax" data-start="margin-top: 0px;"
                     data-400="margin-top: 50px;">
-                <img id="sl-mundito" src="images/mundito.png" alt="" class="slider-img" data-start="margin-top: 0px;"
+                <img id="sl-mundito" src="images/tapa.png" alt="" class="slider-img" data-start="margin-top: 0px;"
                     data-400="margin-top: 50px;">
 
                 <div class="vertical-middle parallax" data-start="margin-top: 0px;" data-400="margin-top: 200px;">
@@ -60,13 +60,13 @@
                         <div class="row justify-content-center text-center mt-5 mb-5 pb-5">
                             <div class="col-lg-12">
                                 <div>
-                                    <h3 class="fw-bolder h1 mb-4">Principales <span
-                                            class="gradient-text gradient-horizon">números</span></h3>
+                                    <h3 class="fw-bolder h1 mb-4">Nuestros <span
+                                            class="gradient-text gradient-horizon">principales números</span></h3>
                                     <div class="row col-mb-50">
                                         <div class="col-sm-4 col-lg-2 text-center">
-                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-diamond"></i>
-                                            <h3 style="color: #8939ad;" class="mb-4 pb-2"></h3>
-                                            <div class="counter counter-large" style="color: #8939ad;"><span
+                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-line2-graduation"></i>
+                                            <h3 style="color: #06668d;" class="mb-4 pb-2"></h3>
+                                            <div class="counter counter-large" style="color: #06668d;"><span
                                                     data-from="100" data-to="92000" data-refresh-interval="50"
                                                     data-speed="1000" data-comma="true" data-sep="." data-places="3">
                                                     92.000</span></div>
@@ -74,43 +74,43 @@
                                         </div>
 
                                         <div class="col-sm-4 col-lg-2 text-center">
-                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-globe"></i>
-                                            <h3 style="color: #cf2856;" class="mb-4 pb-2"></h3>
-                                            <div class="counter counter-large" style="color: #cf2856;"><span
+                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-line2-rocket"></i>
+                                            <h3 style="color: #a12f8a;" class="mb-4 pb-2"></h3>
+                                            <div class="counter counter-large" style="color: #a12f8a;"><span
                                                     data-from="100" data-to="992" data-refresh-interval="75"
                                                     data-speed="1500">992</span></div>
                                             <h5>entidades, pymes y emprendedores asesorados en materia de acceso al
                                                 financiamiento</h5>
                                         </div>
                                         <div class="col-sm-4 col-lg-2 text-center">
-                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-gift"></i>
-                                            <h3 style="color: #ff3560;" class="mb-4 pb-2"></h3>
-                                            <div class="counter counter-large" style="color: #ff3560;"><span
+                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-line2-refresh"></i>
+                                            <h3 style="color: #e55554;" class="mb-4 pb-2"></h3>
+                                            <div class="counter counter-large" style="color: #e55554;"><span
                                                     data-from="0" data-to="246" data-refresh-interval="100"
                                                     data-speed="2000">246</span></div>
-                                            <h5>bolsas de materiales reciclables y 400 pilas y baterías en desuso
+                                            <h5>bolsas de materiales reciclables y 400 pilas y baterías en desuso fueron
                                                 recuperadas</h5>
                                         </div>
                                         <div class="col-sm-4 col-lg-2 text-center">
-                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-fire"></i>
-                                            <h3 style="color: #fd3022;" class="m-0">Más de</h3>
-                                            <div class="counter counter-large" style="color: #fd3022;"> <span
+                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-line2-bubbles"></i>
+                                            <h3 style="color: #20939b;" class="m-0">Más de</h3>
+                                            <div class="counter counter-large" style="color: #20939b;"> <span
                                                     data-from="0" data-to="90" data-refresh-interval="125"
                                                     data-speed="2500">90</span></div>
                                             <h5> jornadas de asistencia técnica realizadas para el desarrollo de los
                                                 Centros Comerciales Abiertos (CCA)</h5>
                                         </div>
                                         <div class="col-sm-4 col-lg-2 text-center">
-                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-fire"></i>
-                                            <div class="counter counter-large" style="color: #fd5d2e;">
-                                                <h3 style="color: #fd5d2e;" class="m-0">Más de</h3>
+                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-line2-users"></i>
+                                            <div class="counter counter-large" style="color: #1fa577;">
+                                                <h3 style="color: #1fa577;" class="m-0">Más de</h3>
                                                 <span data-from="0" data-to="70" data-refresh-interval="150"
                                                     data-speed="3000">70</span>
                                             </div>
                                             <h5>casos de éxito en nuestra plataforma de vinculación laboral</h5>
                                         </div>
                                         <div class="col-sm-4 col-lg-2 text-center">
-                                            <i class="i-plain i-xlarge mx-auto mb-0 icon-fire"></i>
+                                            <i class="i-plain i-xlarge mx-auto mb-0  icon-line2-heart"></i>
                                             <div class="counter counter-large" style="color: #fca241;">
                                                 <h3 style="color: #fca241;" class="m-0">Más de</h3>
                                                 <span data-from="100" data-to="1200" data-refresh-interval="175"

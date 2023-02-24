@@ -172,10 +172,11 @@ html{scroll-behavior:smooth}
 .sobre-reporte {
   color: #5a90d2;
   background-image: linear-gradient(120deg, #d6e3f4 0%, #fff 100%);
+  padding-left: 10px;
 }
 .sobre-reporte.portada {
   background: #5a90d2;
-  border-bottom: 10px solid #22364f;
+ 
 }
 
 .materialidad {
@@ -184,7 +185,7 @@ html{scroll-behavior:smooth}
 }
 .materialidad.portada {
   background: #009fe3;
-  border-bottom: 10px solid #002839;
+ 
 }
 
 .gobernanza {
@@ -193,7 +194,7 @@ html{scroll-behavior:smooth}
 }
 .gobernanza.portada {
   background: #6099bf;
-  border-bottom: 10px solid #243948;
+  
 }
 
 .estandares-laborales {
@@ -202,7 +203,7 @@ html{scroll-behavior:smooth}
 }
 .estandares-laborales.portada {
   background: #f39d46;
-  border-bottom: 10px solid #3d2712;
+ 
 }
 
 .medio-ambiente {
@@ -211,7 +212,6 @@ html{scroll-behavior:smooth}
 }
 .medio-ambiente.portada {
   background: #54bc89;
-  border-bottom: 10px solid #152f22;
 }
 
 .desarrollo-comunidad {
@@ -220,7 +220,7 @@ html{scroll-behavior:smooth}
 }
 .desarrollo-comunidad.portada {
   background: #7c6a92;
-  border-bottom: 10px solid #1f1b25;
+ 
 }
 
 .proximos-desafios {
@@ -229,7 +229,7 @@ html{scroll-behavior:smooth}
 }
 .proximos-desafios.portada {
   background: #f7e368;
-  border-bottom: 10px solid #7c7234;
+ 
 }
 
 .nuevas-comisiones{
@@ -238,7 +238,7 @@ html{scroll-behavior:smooth}
 }
 .nuevas-comisiones.portada {
   background: #1298b7;
-  border-bottom: 10px solid #0c6d83;
+ 
 }
 /* ODS */
 .ods-1 {
@@ -311,12 +311,11 @@ html{scroll-behavior:smooth}
 
 /* TAPA */
 .slider-title {
-  margin-top: 7rem;
+  /* margin-top: 7rem; */
   background-image: url("../images/fondo_1956.png");
-  
-    background-repeat: no-repeat;
-    background-size: 70%;
-    background-position: 100% 0%;
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: 100% 0%;
 }
 #sl-titulo {
   font-weight: 900;
@@ -354,9 +353,9 @@ html{scroll-behavior:smooth}
   right: 0px;
 }
 #sl-mundito {
-  width: 36vw;
-  top: 15vh;
-  left: 15vw;
+  width: 100vw;
+  bottom: 0;
+  left: 0;
   position: absolute;
 }
 #sl-fondo {
@@ -390,9 +389,9 @@ max-width: 50vw;
     display: none;
   }
   #sl-mundito {
-    width: 75vw;
-    top: 2vh;
-    left: 15vw;
+    width: 100vw;
+    bottom: 0;
+    left: 0;
   }
   #sl-back-der {
     right: -55%;
@@ -408,8 +407,8 @@ max-width: 50vw;
     line-height: 2.5rem;
   }
   .slider-title {
-    margin-top: 40%;
-    text-align: right;
+/*     margin-top: 40%;
+ */    text-align: right;
     background-image: url(../images/fondo_1956.png);
     background-position: 100% 2%;
 
@@ -458,9 +457,9 @@ max-width: 50vw;
  
 
   #sl-mundito {
-    width: 36vw;
-    top: 15vh;
-    left: 15vw;
+    width: 100vw;
+    bottom: 0;
+    left: 0;
   }
   #sl-back-der {
     right: -45%;
@@ -472,8 +471,8 @@ max-width: 50vw;
     margin-bottom: 0.25rem;
   }
   .slider-title {
-    margin-top: 40%;
-    text-align: right;
+/*     margin-top: 40%;
+ */    text-align: right;
   }
   #sl-back-izk {
     width: 38%;
@@ -499,8 +498,8 @@ max-width: 50vw;
     line-height: 1rem;
   }
   .slider-title {
-    margin-top: 20%;
-    text-align: right;
+/*     margin-top: 20%;
+ */    text-align: right;
     width: 80%;
     background-size: 75%;
   }
@@ -514,22 +513,18 @@ max-width: 50vw;
   }
 
   #sl-mundito {
-    width: 36vw;
-    top: 15vh;
-    left: 15vw;
+    width: 100vw;
+    bottom: 0;
+    left: 0;
   }
   #sl-back-der {
     right: -35%;
     top: 0%;
   }
-  #sl-mundito {
-    width: 70%;
-    top: 0%;
-    left: 7%;
-  }
+
   .slider-title {
-    margin-top: 40%;
-    text-align: right;
+/*     margin-top: 40%;
+ */    text-align: right;
     background-size: 80%;
   }
   #sl-back-izk {
@@ -556,17 +551,17 @@ max-width: 50vw;
     display: block;
   }
   #sl-mundito {
-    width: 36vw;
-    top: 15vh;
-    left: 15vw;
+    width: 100vw;
+    bottom: 0;
+    left: 0;
   }
   #sl-back-der {
     right: -20%;
     top: 0%;
   }
   .slider-title {
-    margin-top: 20%;
-    text-align: right;
+/*     margin-top: 20%;
+ */    text-align: right;
     width: 80%;
     background-size: 80%;
   }
@@ -599,9 +594,9 @@ max-width: 50vw;
 @media only screen and (min-width: 1200px) {
   
   #sl-mundito {
-    width: 36vw;
-    top: 15vh;
-    left: 15vw;
+    width: 100vw;
+    bottom: 0;
+    left: 0;
   }
   #sl-back-der {
     right: -15%;
@@ -628,8 +623,8 @@ max-width: 50vw;
     line-height: 1rem;
   }
   .slider-title {
-    margin-top: 20%;
-    text-align: right;
+/*     margin-top: 20%;
+ */    text-align: right;
     width: 80%;
     background-size: 70%;
   }
@@ -638,9 +633,9 @@ max-width: 50vw;
 /* 1600 o más */
 @media only screen and (min-width: 1600px) {
   #sl-mundito {
-    width: 36vw;
-    top: 15vh;
-    left: 15vw;
+    width: 100vw;
+    bottom: 0;
+    left: 0;
   }
 
   #sl-back-der {
@@ -678,8 +673,8 @@ max-width: 50vw;
     line-height: 1rem;
   }
   .slider-title {
-    margin-top: 20%;
-    text-align: right;
+/*     margin-top: 20%;
+ */    text-align: right;
     width: 80%;
     background-size: 55%;
   }
@@ -688,9 +683,9 @@ max-width: 50vw;
 /* 1700 o más */
 @media only screen and (min-width: 1700px) {
   #sl-mundito {
-    width: 36vw;
-    top: 15vh;
-    left: 15vw;
+    width: 100vw;
+    bottom: 0;
+    left: 0;
   }
   #sl-back-der {
     right: -10%;
@@ -720,10 +715,49 @@ max-width: 50vw;
     line-height: 1rem;
   }
   .slider-title {
-    margin-top: 20%;
-    text-align: right;
+/*     margin-top: 20%;
+ */    text-align: right;
     width: 80%;
     background-size: 55%;
   }
 }
 
+/* Badge
+-----------------------------------------------------------------*/
+.badge {
+	padding: 8px;
+  font-size: 1em;
+	margin-bottom: 15px;
+	border-radius: 2px;
+	font-weight: 500;
+	line-height: .8;
+}
+
+.badge i{
+  font-size: 1.1em;padding-right: 5px;
+}
+
+.badge-gobernanza {
+	border: 1px solid  #005ca4;
+	color:  #005ca4;
+}
+.badge.badge-ambiente {
+	border: 1px solid  #007824;
+	color:  #007824;
+}
+.badge.badge-comunidad {
+	border: 1px solid  #7a00b3;
+	color:  #7a00b3;
+}
+.badge.badge-estandares {
+	border: 1px solid  #fE9603;
+	color:  #fE9603;
+}
+
+.etiqueta{
+  float: left;
+  margin-right: 0.5em;
+}
+.etiqueta.etiqueta-gobernanza{
+  color: #005ca4;
+}
