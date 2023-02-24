@@ -240,46 +240,6 @@ html{scroll-behavior:smooth}
   background: #1298b7;
  
 }
-/* ODS */
-.ods-1 {
-  background-color: #fac6cb;
-}
-.ods-2 {
-  background-color: #f4e7ca;
-}
-.ods-3 {
-  background-color: #c9e6d1;
-}
-.ods-4 {
-  background-color: #f0c7cc;
-}
-.ods-5 {
-  background-color: #fbcfca;
-}
-.ods-8 {
-  background-color: #e3c5cd;
-}
-.ods-9 {
-  background-color: #fcdbc9;
-}
-.ods-10 {
-  background-color: #f8c4e0;
-}
-.ods-11 {
-  background-color: #fee7c9;
-}
-.ods-12 {
-  background-color: #f3e3ca;
-}
-.ods-13 {
-  background-color: #d1ddcf;
-}
-.ods-16 {
-  background-color: #c0d5e2;
-}
-.ods-17 {
-  background-color: #c5cdd9;
-}
 
 .table tr th {
   border-right: 1px solid #f2f2f2;
@@ -320,8 +280,9 @@ html{scroll-behavior:smooth}
 #sl-titulo {
   font-weight: 900;
   font-size: 3.5rem;
-  line-height: 4.5rem;
+  line-height: 3.5rem;
   color: #1e6451;
+  text-transform: uppercase;
 }
 #sl-titulo-2020 {
   color: #1e6451;
@@ -334,6 +295,7 @@ html{scroll-behavior:smooth}
   color: #fff;
   padding-top: 0.25rem;
   padding-right: 0.5rem;
+  height: 3rem;
 }
 #sl-came {
   width: 13vw;
@@ -644,7 +606,7 @@ max-width: 50vw;
   }
   #sl-titulo {
     font-size: 3.5rem;
-    line-height: 4.5rem;
+    line-height: 3.5rem;
   }
   #sl-titulo-2020 {
     font-size: 7rem;
@@ -692,8 +654,8 @@ max-width: 50vw;
     top: 0%;
   }
   #sl-titulo {
-    font-size: 4.5rem;
-    line-height: 5rem;
+    font-size: 3.5rem;
+    
   }
   #sl-back-izk {
     width: 16%;
@@ -708,7 +670,7 @@ max-width: 50vw;
     bottom: 1%;
   }
   .titulo-seccion {
-    font-size: 4rem;
+    font-size: 3.5rem;
   }
   #sl-1956{
     font-size: 1.2rem;
@@ -760,4 +722,127 @@ max-width: 50vw;
 }
 .etiqueta.etiqueta-gobernanza{
   color: #005ca4;
+}
+
+
+
+/* ODS Botones -----------------------------------------------------------------*/
+.nav-pills .nav-item .nav-link {
+	position: relative;
+	padding: 0.5rem 0.5rem;
+	opacity:  0.8;
+}
+
+.nav-pills .nav-item .nav-link.active::after {
+    content:'';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 0;
+    height: 0;
+    border-top: solid 12px transparent;
+    border-left: solid 12px transparent;
+    border-right: solid 12px transparent;
+}
+
+.nav-pills .nav-item .nav-link span {
+	display: block;
+}
+
+.nav-pills .nav-item .nav-link:hover,
+.nav-pills .nav-item .nav-link.active {
+	opacity: 1;
+}
+
+.nav-pills img{
+  width: 6rem;
+  
+}
+
+/* ODS */
+.ods-1 {
+  background-color: #fac6cb !important;
+}
+.ods-2 {
+  background-color: #f4e7ca !important;
+}
+.ods-3 {
+  background-color: #c9e6d1 !important;
+}
+.ods-4 {
+  background-color: #f0c7cc !important;
+}
+.ods-5 {
+  background-color: #fbcfca !important;
+}
+.ods-8 {
+  background-color: #e3c5cd !important;
+}
+.ods-9 {
+  background-color: #fcdbc9 !important;
+}
+.ods-10 {
+  background-color: #f8c4e0 !important;
+}
+.ods-11 {
+  background-color: #fee7c9 !important;
+}
+.ods-12 {
+  background-color: #f3e3ca !important;
+}
+.ods-13 {
+  background-color: #d1ddcf !important;
+}
+.ods-16 {
+  background-color: #c0d5e2 !important;
+}
+.ods-17 {
+  background-color: #c5cdd9 !important;
+}
+
+
+.nav-pills .nav-item .nav-link.ods-1::after {
+  border-top-color: #fac6cb;
+}
+.nav-pills .nav-item .nav-link.ods-2::after {
+  border-top-color: #f4e7ca;
+}
+.nav-pills .nav-item .nav-link.ods-3::after {
+  border-top-color: #c9e6d1;
+}
+.nav-pills .nav-item .nav-link.ods-4::after {
+  border-top-color: #f0c7cc;
+}
+.nav-pills .nav-item .nav-link.ods-5::after {
+  border-top-color: #fbcfca;
+}
+.nav-pills .nav-item .nav-link.ods-8::after {
+  border-top-color: #e3c5cd;
+}
+.nav-pills .nav-item .nav-link.ods-9::after {
+  border-top-color: #fcdbc9;
+}
+.nav-pills .nav-item .nav-link.ods-10::after {
+  border-top-color: #f8c4e0;
+}
+.nav-pills .nav-item .nav-link.ods-11::after {
+  border-top-color: #fee7c9;
+}
+.nav-pills .nav-item .nav-link.ods-12::after {
+  border-top-color: #f3e3ca;
+}
+.nav-pills .nav-item .nav-link.ods-13::after {
+  border-top-color: #d1ddcf;
+}
+.nav-pills .nav-item .nav-link.ods-16::after {
+  border-top-color: #c0d5e2;
+}
+.nav-pills .nav-item .nav-link.ods-17::after {
+  border-top-color: #c5cdd9;
+}
+
+thead{
+  font-weight: bold;
 }

@@ -1,8 +1,8 @@
-<footer id="footer" class="dark border-0" style="background-color: #226397;">
+<footer id="footer" class="dark " style="background-color: #226397;">
     <div class="container">
         <!-- Footer Widgets
 				============================================= -->
-        <div class="footer-widgets-wrap pb-4">
+        <div class="footer-widgets-wrap pb-2 pt-2 ">
             <div class="row">
                 <div class="col-md-3 no_celu">
                     <div class="widget widget_links clearfix">
@@ -15,16 +15,14 @@
                                 </a>
                             </li>
 
-
-
                             <div class="clear mb-1"></div>
                             <div class="toggle p-0 m-0">
                                 <div class="toggle-header" style="
-                    font-weight: 400;
-                    font-size: 0.9rem;
-                    color: rgba(255, 255, 255, 0.8);
-                    line-height: 1.5rem;
-                  ">
+                                    font-weight: 400;
+                                    font-size: 0.9rem;
+                                    color: rgba(255, 255, 255, 0.8);
+                                    line-height: 1.5rem;
+                                ">
                                     <div class="toggle-icon p-0">
                                         <i class="toggle-closed icon-angle-right1"></i>
                                         <i class="toggle-open icon-angle-down1"></i>

@@ -26,7 +26,7 @@
                         <div class="d-flex flex-row-reverse">
                             <div class="col-md-5">
                                 <div class="slider-title">
-                                    <p id="sl-1956"> DESDE 1956 JUNTO A</br> LAS PYMES ARGENTINAS </p>
+                                    <p id="sl-1956"></p>
 
                                     <h1 id="sl-titulo">
                                         <span id="sl-titulo-2020">2022</span>
@@ -53,9 +53,9 @@
                 <!-- Contandores
 		            ============================================= -->
                 <div class="section mb-0 pt-5 pb-5"
-                    style="background-color: #F4F4F4; margin-top: 150px; overflow: visible;">
+                    style="background-color: #e4e4e4; margin-top: 150px; overflow: visible;">
                     <div class="shape-divider" data-shape="wave" data-height="150" data-outside="true"
-                        data-flip-vertical="true" data-fill="#F4F4F4"></div>
+                        data-flip-vertical="true" data-fill="#e4e4e4"></div>
                     <div class="container">
                         <div class="row justify-content-center text-center mt-5 mb-5 pb-5">
                             <div class="col-lg-12">
@@ -176,7 +176,7 @@
                 <!-- Video
 		            ============================================= -->
                 <!-- <div class="section mb-0 pt-5 pb-5"
-                    style="background-color: #F4F4F4; margin-top: 150px; overflow: visible;">
+                    style="background-color: #e4e4e4; margin-top: 150px; overflow: visible;">
                     </div> -->
 
 
@@ -217,9 +217,9 @@
                 <!-- Conocé nuestros últimos reportes
 		            ============================================= -->
                 <div class="section mb-0 pt-5 pb-5"
-                    style="background-color: #F4F4F4; margin-top: 50px; overflow: visible;">
+                    style="background-color: #e4e4e4; margin-top: 50px; overflow: visible;">
                     <div class="shape-divider" data-shape="wave-5" data-height="50" data-outside="true"
-                        data-flip-vertical="true" data-fill="#F4F4F4"></div>
+                        data-flip-vertical="true" data-fill="#e4e4e4"></div>
                     <div class="container mb-5">
 
                         <div class="heading-block center">
