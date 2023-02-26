@@ -12,28 +12,23 @@
         <section id="slider" class="slider-element min-vh-100 include-header" style="background-color: #ffffff;">
             <div class="slider-inner">
 
-                <!--   <img id="sl-back-der" src="images/back-der.png" alt="" class="slider-img">
-                <img id="sl-back-izk" src="images/back-izk.png" alt="" class="slider-img parallax" data-start="margin-top: 0px;" data-400="margin-top: 50px;"> -->
-                <!--           <img id="sl-fondo" src="images/fondo.png" alt="" class="slider-img parallax"
-                    data-start="margin-top: 0px;" data-400="margin-top: 50px;"> -->
-                <img id="sl-came" src="images/CAME.png" alt="" class="slider-img parallax" data-start="margin-top: 0px;"
-                    data-400="margin-top: 50px;">
                 <img id="sl-mundito" src="images/tapa.png" alt="" class="slider-img" data-start="margin-top: 0px;"
                     data-400="margin-top: 50px;">
 
                 <div class="vertical-middle parallax" data-start="margin-top: 0px;" data-400="margin-top: 200px;">
                     <div class="pl-4">
                         <div class="d-flex flex-row-reverse">
-                            <div class="col-md-5">
+                            <div class="col-md-6 col-lg-4">
                                 <div class="slider-title">
-                                    <p id="sl-1956"></p>
+                                    <img id="sl-1956" src="images/fondo_1956.png"
+                                        alt="Desde 1956 junto a las pymes argentinas">
 
                                     <h1 id="sl-titulo">
-                                        <span id="sl-titulo-2020">2022</span>
-                                        </br>
-                                        Reporte de Gestión Social y Ambiental
+                                        Reporte de Gestión Social y Ambiental</br>
+                                        <span id="sl-titulo-2020">____2022</span>
                                     </h1>
-
+                                    <div class="clear"></div>
+                                    <img id="sl-came" src="images/CAME.png" alt="CAME" title="CAME">
                                 </div>
 
                             </div>
@@ -222,8 +217,9 @@
                         data-flip-vertical="true" data-fill="#e4e4e4"></div>
                     <div class="container mb-5">
 
-                        <div class="heading-block center">
-                            <h3>Conocé nuestros últimos reportes:</h3>
+                        <div class="center">
+                            <h3 class="fw-bolder h1 mb-4">Nuestros <span class="gradient-text gradient-horizon">últimos
+                                    reportes</span></h3>
                         </div>
                         <div class="row ml-5 mr-5 pl-5 pr-5">
                             <div id="oc-images" class="owl-carousel image-carousel carousel-widget" data-items-xs="2"

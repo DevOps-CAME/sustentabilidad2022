@@ -41,35 +41,35 @@
 
                     <ul class="menu-container">
                         <li class="menu-item"><a class="menu-link" href="institucional.php">
-                                <div>Institucional</div>
+                                Institucional
                             </a></li>
                         <li class="menu-item sub-menu">
                             <a class="menu-link" href="#">
-                                <div>Acciones sectoriales</div>
+                                Acciones sectoriales
                             </a>
                             <ul class="sub-menu-container">
                                 <li class="menu-item">
                                     <a class="menu-link" href="acciones_secretarias.php">
-                                        <div>Secretarías y Departamentos</div>
+                                        Secretarías y Departamentos
                                     </a>
                                 </li>
                                 <li class="menu-item">
                                     <a class="menu-link" href="acciones_sectores.php">
-                                        <div>Sectores</div>
+                                        Sectores
                                     </a>
                                 </li>
                                 <li class="menu-item">
                                     <a class="menu-link" href="acciones_rsds.php">
-                                        <div>Responsabilidad Social y Desarrollo Sustentable </div>
+                                        Responsabilidad Social y Desarrollo Sustentable
                                     </a>
                                 </li>
                             </ul>
                         </li>
                         <li class="menu-item"><a class="menu-link" href="indicadores.php">
-                                <div>Indicadores</div>
+                                Indicadores
                             </a></li>
                         <li class="menu-item"><a class="menu-link" href="proximos_desafios.php">
-                                <div>Próximos desafíos</div>
+                                Próximos desafíos
                             </a></li>
 
 
