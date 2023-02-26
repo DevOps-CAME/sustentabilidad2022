@@ -11,10 +11,6 @@
 		============================================= -->
         <section id="slider" class="slider-element min-vh-100 include-header" style="background-color: #ffffff;">
             <div class="slider-inner">
-
-                <img id="sl-mundito" src="images/tapa.png" alt="" class="slider-img" data-start="margin-top: 0px;"
-                    data-400="margin-top: 50px;">
-
                 <div class="vertical-middle parallax" data-start="margin-top: 0px;" data-400="margin-top: 200px;">
                     <div class="pl-4">
                         <div class="d-flex flex-row-reverse">
@@ -37,6 +33,8 @@
                 </div>
 
             </div>
+            <div class="shape-divider" data-shape="wave-6" data-height="100" data-position="bottom"></div>
+
         </section><!-- #Slider End -->
 
         <!-- Content
@@ -47,12 +45,10 @@
 
                 <!-- Contandores
 		            ============================================= -->
-                <div class="section mb-0 pt-5 pb-5"
-                    style="background-color: #e4e4e4; margin-top: 150px; overflow: visible;">
-                    <div class="shape-divider" data-shape="wave" data-height="150" data-outside="true"
-                        data-flip-vertical="true" data-fill="#e4e4e4"></div>
+                <div class="section mb-0 pt-2 pb-5" style="background-color: #ffffff;  overflow: visible;">
+
                     <div class="container">
-                        <div class="row justify-content-center text-center mt-5 mb-5 pb-5">
+                        <div class="row justify-content-center text-center pb-5">
                             <div class="col-lg-12">
                                 <div>
                                     <h3 class="fw-bolder h1 mb-4">Nuestros <span
@@ -119,7 +115,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="shape-divider" data-shape="wave-6" data-height="100" data-position="bottom"></div>
 
 
                     <!-- <div class="d-flex justify-content-center position-relative">
@@ -177,8 +172,10 @@
 
                 <!-- Nuestra organización
 		            ============================================= -->
-                <div class="section m-0" style=" background-color: #FFFFFF;">
-                    <div class=" container">
+                <div class="section m-0" style=" background-color: #e4e4e4;">
+                    <div class="shape-divider" data-shape="wave-6" data-height="100"></div>
+
+                    <div class="container my-4 ">
                         <div class="row justify-content-between align-items-center">
                             <div class="col-md-7">
                                 <div class="heading-block border-bottom-0 bottommargin-sm">
@@ -207,14 +204,14 @@
                         </div>
 
                     </div>
+                    <div class="shape-divider" data-shape="wave-6" data-height="100" data-position="bottom"></div>
                 </div>
 
                 <!-- Conocé nuestros últimos reportes
 		            ============================================= -->
                 <div class="section mb-0 pt-5 pb-5"
-                    style="background-color: #e4e4e4; margin-top: 50px; overflow: visible;">
-                    <div class="shape-divider" data-shape="wave-5" data-height="50" data-outside="true"
-                        data-flip-vertical="true" data-fill="#e4e4e4"></div>
+                    style="background-color: #ffffff; margin-top: 50px; overflow: visible;">
+
                     <div class="container mb-5">
 
                         <div class="center">
@@ -257,22 +254,22 @@
                             </div>
                         </div>
                     </div>
-                    <div class="shape-divider" data-shape="wave-5" data-height="50" data-position="bottom"></div>
 
                 </div>
 
                 <!-- opinion
 				============================================= -->
-                <div class="section m-0 pb-0 pt-5" style="background-color: #FFFFFF;">
+                <div class="section m-0 pb-0 pt-5" style="background-color: #e4e4e4;">
+                    <div class="shape-divider" data-shape="wave-6" data-height="100"></div>
+
                     <div class="row clearfix align-items-stretch">
 
-                        <div class="col-lg-6 center col-padding"
-                            style="background-color: #ffffff;    min-height: 300px;">
+                        <div class="col-lg-6 center col-padding" style="  min-height: 300px;">
                             <img src="images/opinion.png" alt="" style="position: absolute;left: 0;top: 0;">
 
                         </div>
 
-                        <div class="col-lg-6 center col-padding" style="background-color: #ffffff;">
+                        <div class="col-lg-6 center col-padding">
                             <div class="heading-block border-bottom-0">
                                 <h3>¡CONTANOS TU OPINIÓN!</h3>
                                 <span class="before-heading color">Si tenés comentarios, sugerencias o necesitás

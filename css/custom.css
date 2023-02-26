@@ -270,7 +270,11 @@ html{scroll-behavior:smooth}
 }
 
 /* TAPA */
-
+.slider-inner{
+  background-image: url("../images/tapa.png");
+  background-position: 60% 100%;
+  background-size: 100%;
+}
 #sl-titulo {
   font-weight: 500;
   font-size: 3rem;
@@ -387,7 +391,10 @@ max-width: 50vw;
   #sl-fondo{
     display: none;
   }
- 
+  .slider-inner{
+    background-position: 0% 100%;
+    background-size: 170%;
+  }
 
 }
 
@@ -397,7 +404,10 @@ max-width: 50vw;
   .no_celu{
     display: none;
   }
- 
+  .slider-inner{
+    background-position: 60% 100%;
+    background-size: 100%;
+  }
 
   #sl-mundito {
     width: 100vw;
@@ -428,12 +438,15 @@ max-width: 50vw;
     line-height: 4.5rem;
   }
   #sl-1956{
-    width: 70%;
+    width: 90%;
 
   }
   .slider-title {
     text-align: right;
     width: 90%;
+  }
+  .slider-inner{
+    background-size: 100%;
   }
  
 }
@@ -442,6 +455,10 @@ max-width: 50vw;
 @media only screen and (min-width: 768px) {
   .no_celu{
     display: none;
+  }
+  .slider-inner{
+    background-position: 60% 100%;
+    background-size: 140%;
   }
 
   #sl-mundito {
@@ -488,6 +505,10 @@ max-width: 50vw;
   .no_celu{
     display: block;
   }
+  .slider-inner{
+    background-position: 60% 100%;
+    background-size: 100%;
+  }
   #sl-mundito {
     width: 100vw;
     bottom: 0;
@@ -524,7 +545,10 @@ max-width: 50vw;
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-  
+  .slider-inner{
+    background-position: 60% 100%;
+    background-size: 100%;
+  }
   #sl-mundito {
     width: 100vw;
     bottom: 0;
@@ -558,6 +582,10 @@ max-width: 50vw;
 
 /* 1600 o más */
 @media only screen and (min-width: 1600px) {
+  .slider-inner{
+    background-position: 60% 100%;
+    background-size: 100%;
+  }
   #sl-mundito {
     width: 100vw;
     left: 0;
@@ -602,6 +630,10 @@ max-width: 50vw;
 
 /* 1700 o más */
 @media only screen and (min-width: 1700px) {
+  .slider-inner{
+    background-position: 60% 100%;
+    background-size: 100%;
+  }
   #sl-mundito {
     width: 100vw;
     bottom: 0;
