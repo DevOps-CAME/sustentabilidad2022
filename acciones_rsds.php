@@ -8,14 +8,15 @@
 
         <?php include "header.php"; ?>
 
-
         <div class="section parallax mb-0 mt-0 d-flex align-items-center medio-ambiente portada">
             <div class="container clearfix">
 
                 <div>
-                    <h2 class="titulo-seccion" style="color: #000"> Responsabilidad Social y Desarrollo Sustentable</h2>
+                    <h2 class="titulo-seccion" style="color: #fff;">Responsabilidad Social y Desarrollo Sustentable</h2>
                 </div>
             </div>
+            <div class="shape-divider" data-shape="wave-6" data-height="100" data-position="bottom"></div>
+
         </div>
 
 
@@ -94,12 +95,10 @@
                         </div>
                     </div>
 
+                    <h2 class="subtitulo--magical medio-ambiente">Intersectorial</h2>
+
                     <div class="row">
                         <div class="col-12 mt-4 text-justify">
-                            <h2 class="subtitulo--magical medio-ambiente">Intersectorial</h2>
-
-
-
                             <h3 class="subtitulo--magical medio-ambiente">Secretaría de Capacitación</h3>
                             <p>Realizamos una gestión enfocada en dos aristas: responder en tiempo y forma,
                                 y con calidad, las consultas de las entidades asociadas sobre temas presupuestarios.
@@ -112,8 +111,8 @@
                         </div>
                     </div>
 
+                    <h3 class="subtitulo--magical medio-ambiente">Economías Regionales</h3>
                     <div class="row">
-                        <h3 class="subtitulo--magical medio-ambiente">Economías Regionales</h3>
 
                         <div class="col-md-4">
                             <p>Participamos en calidad de disertantes en el tercer ciclo de charlas abiertas
@@ -143,9 +142,9 @@
                         </div>
                     </div>
 
+                    <h3 class="subtitulo--magical medio-ambiente">Comercio</h3>
                     <div class="row">
                         <div class="col-md-12">
-                            <h3 class="subtitulo--magical medio-ambiente">Comercio</h3>
 
                             <p>Fair Trade Latinoamérica: trabajamos conjuntamente en la creación de una alianza
                                 que tiene como fin
@@ -156,9 +155,9 @@
 
                     </div>
 
-                    <div class="row">
-                        <h3 class="subtitulo--magical medio-ambiente">Financiamiento</h3>
+                    <h3 class="subtitulo--magical medio-ambiente">Financiamiento</h3>
 
+                    <div class="row">
                         <div class="col-md-4">
                             <p>A partir de la próxima convocatoria de Crédito Fiscal del Ministerio de Trabajo,
                                 se podrá solicitar financiamiento para implementar y certificar el Sello Came
