@@ -105,8 +105,70 @@
                                             </p>
                                         </div>
                                     </div>
+                                    <div class="card shadow-sm border-light mt-4">
+                                        <img src="images/logos/financiamiento@4x.png" alt="Financiamiento"
+                                            class="card-img-top">
+                                        <div class="card-body">
+                                            <h3 class="">Financiamiento</h3>
+                                            <p>Continuar impulsando vínculos con los organismos con los que interactúa
+                                                CAME en pos de optimizar las políticas públicas de asistencia y/o
+                                                financiamiento.</p>
+                                            <p>Fortalecer las propuestas orientadas a la Educación Financiera, como
+                                                pilar para optimizar el acceso al financiamiento de instituciones, pymes
+                                                y emprendedores.</p>
+                                            <p>Realizar una nueva edición del IMAF 2023.</p>
+                                            <p>Afianzar alianzas regionales/provinciales para poder realizar acciones
+                                                afines al financiamiento local, trabajando junto con dirigentes
+                                                regionales de la red CAME.</p>
+                                            <p>Optimizar el trabajo vinculado con las formulaciones y presentaciones de
+                                                proyectos para pymes y emprendedores a través de un trabajo con
+                                                especialistas.</p>
+                                            <p>Fortalecer el vínculo de trabajo con las entidades empresarias asociadas
+                                                a la Red CAME e intersectorial con las demás áreas y sectores de CAME
+                                                para que los servicios de FinanCAME lleguen a más pymes y emprendedores
+                                                de todo el país.</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="card shadow-sm border-light mt-4">
+                                        <img src="images/logos/innovacion.png" alt="Innovación" class="card-img-top">
+                                        <div class="card-body">
+                                            <h3 class="">Innovación</h3>
+                                            <p>Fortalecer a la red de líderes tecnológicos en todo el país a través de
+                                                diversos programas donde éstos se capaciten en nuevas herramientas IT.
+                                            </p>
+                                            <p>Continuar realizando acciones junto a las organizaciones del sector IT y
+                                                afines.</p>
+                                            <p>Generar talleres de trabajo en consejos directivos regionales.</p>
+                                            <p>Crear una base de datos de empresas tecnológicas de todo el país.</p>
+                                            <p>Formalizar los convenios de colaboración con Microsoft y Telecom.</p>
+
+                                        </div>
+                                    </div>
+                                    <div class="card shadow-sm border-light mt-4">
+                                        <img src="images/logos/rsds@4x.png"
+                                            alt="Responsabilidad Social y Desarrollo Sustentable" class="card-img-top">
+                                        <div class="card-body">
+                                            <h3 class="">Responsabilidad Social y Desarrollo Sustentable
+                                            </h3>
+                                            <p>Crear un "Índice Verde" que permita generar datos sobre la situación
+                                                actual de las pymes en términos de triple impacto.</p>
+                                            <p>Continuar con el desarrollo del Proyecto "Patagonia Argentina: la
+                                                eficiencia energética como estrategia de transición en las pymes
+                                                industriales". El mismo sería financiado por un ANR solicitado a la UE.
+                                            </p>
+                                            <p>Continuar trabajando en el programa "Pymes que cuidan" haciendo hincapié
+                                                en el sector Industrial y Parques Industriales, junto a UNICEF Argentina
+                                                y el sector de CAME Mujeres.</p>
+                                            <p>Firmar un convenio con la Agencia Nacional de Discapacidad y desarrollar
+                                                una agenda conjunta de capacitaciones.</p>
+                                            <p>Aumentar el alcance de la plataforma “Postularme”.</p>
+
+                                        </div>
+                                    </div>
 
                                 </div>
+
                                 <div class="col-md-6 col-sm-12 pl-sm-3 mt-3 mt-sm-0">
                                     <div class="card shadow-sm border-light mt-4">
                                         <img src="images/CAME.png" alt="Recursos Humanos" class="card-img-top">
@@ -131,7 +193,6 @@
 
                                         </div>
                                     </div>
-
                                     <div class="card shadow-sm border-light mt-4">
                                         <img src="images/logos/cultura@4x.png" alt="Cultura" class="card-img-top">
                                         <div class="card-body">
@@ -161,33 +222,6 @@
 
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-md-6 col-sm-12 pl-sm-3 mt-3 mt-sm-0">
-                                    <div class="card shadow-sm border-light mt-4">
-                                        <img src="images/logos/financiamiento@4x.png" alt="Financiamiento"
-                                            class="card-img-top">
-                                        <div class="card-body">
-                                            <h3 class="">Financiamiento</h3>
-                                            <p>Continuar impulsando vínculos con los organismos con los que interactúa
-                                                CAME en pos de optimizar las políticas públicas de asistencia y/o
-                                                financiamiento.</p>
-                                            <p>Fortalecer las propuestas orientadas a la Educación Financiera, como
-                                                pilar para optimizar el acceso al financiamiento de instituciones, pymes
-                                                y emprendedores.</p>
-                                            <p>Realizar una nueva edición del IMAF 2023.</p>
-                                            <p>Afianzar alianzas regionales/provinciales para poder realizar acciones
-                                                afines al financiamiento local, trabajando junto con dirigentes
-                                                regionales de la red CAME.</p>
-                                            <p>Optimizar el trabajo vinculado con las formulaciones y presentaciones de
-                                                proyectos para pymes y emprendedores a través de un trabajo con
-                                                especialistas.</p>
-                                            <p>Fortalecer el vínculo de trabajo con las entidades empresarias asociadas
-                                                a la Red CAME e intersectorial con las demás áreas y sectores de CAME
-                                                para que los servicios de FinanCAME lleguen a más pymes y emprendedores
-                                                de todo el país.</p>
-
-                                        </div>
-                                    </div>
                                     <div class="card shadow-sm border-light mt-4">
                                         <img src="images/logos/jovenes@4x.png" alt="Jóvenes" class="card-img-top">
                                         <div class="card-body">
@@ -207,21 +241,6 @@
                                         </div>
                                     </div>
                                     <div class="card shadow-sm border-light mt-4">
-                                        <img src="images/logos/innovacion.png" alt="Innovación" class="card-img-top">
-                                        <div class="card-body">
-                                            <h3 class="">Innovación</h3>
-                                            <p>Fortalecer a la red de líderes tecnológicos en todo el país a través de
-                                                diversos programas donde éstos se capaciten en nuevas herramientas IT.
-                                            </p>
-                                            <p>Continuar realizando acciones junto a las organizaciones del sector IT y
-                                                afines.</p>
-                                            <p>Generar talleres de trabajo en consejos directivos regionales.</p>
-                                            <p>Crear una base de datos de empresas tecnológicas de todo el país.</p>
-                                            <p>Formalizar los convenios de colaboración con Microsoft y Telecom.</p>
-
-                                        </div>
-                                    </div>
-                                    <div class="card shadow-sm border-light mt-4">
                                         <img src="images/logos/rondas@4x.png" alt="Rondas Negocios"
                                             class="card-img-top">
                                         <div class="card-body">
@@ -230,30 +249,6 @@
                                             <p>Superar el número de rondas realizadas en 2022.</p>
                                             <p>Incrementar las oportunidades de negocios nacionales e internacionales
                                                 para las pymes participantes.</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-12 pl-sm-3 mt-3 mt-sm-0">
-
-                                    <div class="card shadow-sm border-light mt-4">
-                                        <img src="images/logos/rsds@4x.png"
-                                            alt="Responsabilidad Social y Desarrollo Sustentable" class="card-img-top">
-                                        <div class="card-body">
-                                            <h3 class="">Responsabilidad Social y Desarrollo Sustentable
-                                            </h3>
-                                            <p>Crear un "Índice Verde" que permita generar datos sobre la situación
-                                                actual de las pymes en términos de triple impacto.</p>
-                                            <p>Continuar con el desarrollo del Proyecto "Patagonia Argentina: la
-                                                eficiencia energética como estrategia de transición en las pymes
-                                                industriales". El mismo sería financiado por un ANR solicitado a la UE.
-                                            </p>
-                                            <p>Continuar trabajando en el programa "Pymes que cuidan" haciendo hincapié
-                                                en el sector Industrial y Parques Industriales, junto a UNICEF Argentina
-                                                y el sector de CAME Mujeres.</p>
-                                            <p>Firmar un convenio con la Agencia Nacional de Discapacidad y desarrollar
-                                                una agenda conjunta de capacitaciones.</p>
-                                            <p>Aumentar el alcance de la plataforma “Postularme”.</p>
 
                                         </div>
                                     </div>
@@ -284,6 +279,7 @@
                                         </div>
                                     </div>
                                 </div>
+
 
                             </div>
                         </div>
