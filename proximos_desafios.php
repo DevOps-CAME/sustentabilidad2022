@@ -47,8 +47,8 @@
                                 <div class="col-md-6 col-sm-12 pl-sm-3 mt-3 mt-sm-0">
 
                                     <div class="card shadow-sm border-light mt-4">
-                                        <img src="images/logos/administracionPresupuestos@4x.png"
-                                            alt="Administración de Presupuestos" class="card-img-top">
+                                        <img src="images/CAME.png" alt="Administración de Presupuestos"
+                                            class="card-img-top">
                                         <div class="card-body">
                                             <h3 class="">Administración de Presupuestos</h3>
                                             <p>Recertificar nuestro Sistema de Gestión de la Calidad bajo la Norma
@@ -57,14 +57,6 @@
                                                 nuestros públicos y la mejora continua, con transparencia y
                                                 eficiencia.
 
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div class="card shadow-sm border-light mt-4">
-                                        <img src="images/logos/rrhh@4x.png" alt="Recursos Humanos" class="card-img-top">
-                                        <div class="card-body">
-                                            <h3 class="">Recursos Humanos</h3>
-                                            <p>Aumentar las horas de capacitación destinadas a nuestros colaboradores.
                                             </p>
                                         </div>
                                     </div>
@@ -82,23 +74,6 @@
 
                                         </div>
                                     </div>
-                                    <div class="card shadow-sm border-light mt-4">
-                                        <img src="images/logos/parquesIndustriales@4x.png" alt="Parques Industriales"
-                                            class="card-img-top">
-                                        <div class="card-body">
-                                            <h3 class="">Parques Industriales</h3>
-                                            <p>Promover espacios de cuidado en Parques Industriales, a través de un
-                                                trabajo conjunto con el departamento de Responsabilidad Social y
-                                                Desarrollo Sustentable de CAME y UNICEF Argentina.</p>
-                                            <p>Realizar capacitaciones de sensibilización sobre políticas de cuidado en
-                                                niños, niñas y adolescentes, espacios de cuidado, espacios de lactancias
-                                                y campañas de difusión, entre otras.</p>
-                                            <p>Iniciar un programa de economía circular en Parques Industriales.</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-12 pl-sm-3 mt-3 mt-sm-0">
                                     <div class="card shadow-sm border-light mt-4">
                                         <img src="images/logos/comercio@4x.png" alt="Comercio" class="card-img-top">
                                         <div class="card-body">
@@ -119,6 +94,45 @@
                                         </div>
                                     </div>
                                     <div class="card shadow-sm border-light mt-4">
+                                        <img src="images/logos/regionales@4x.png" alt="Economías Regionales"
+                                            class="card-img-top">
+                                        <div class="card-body">
+                                            <h3 class="">Economías Regionales</h3>
+                                            <p>
+                                            <p> Continuar promoviendo el tratamiento del proyecto de Ley "Régimen de
+                                                Promoción y Agregado de Valor de las Economías Regionales".</p>
+                                            </ul>
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 col-sm-12 pl-sm-3 mt-3 mt-sm-0">
+                                    <div class="card shadow-sm border-light mt-4">
+                                        <img src="images/CAME.png" alt="Recursos Humanos" class="card-img-top">
+                                        <div class="card-body">
+                                            <h3 class="">Recursos Humanos</h3>
+                                            <p>Aumentar las horas de capacitación destinadas a nuestros colaboradores.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="card shadow-sm border-light mt-4">
+                                        <img src="images/logos/fapi@4x.png" alt="Parques Industriales"
+                                            class="card-img-top">
+                                        <div class="card-body">
+                                            <h3 class="">Parques Industriales</h3>
+                                            <p>Promover espacios de cuidado en Parques Industriales, a través de un
+                                                trabajo conjunto con el departamento de Responsabilidad Social y
+                                                Desarrollo Sustentable de CAME y UNICEF Argentina.</p>
+                                            <p>Realizar capacitaciones de sensibilización sobre políticas de cuidado en
+                                                niños, niñas y adolescentes, espacios de cuidado, espacios de lactancias
+                                                y campañas de difusión, entre otras.</p>
+                                            <p>Iniciar un programa de economía circular en Parques Industriales.</p>
+
+                                        </div>
+                                    </div>
+
+                                    <div class="card shadow-sm border-light mt-4">
                                         <img src="images/logos/cultura@4x.png" alt="Cultura" class="card-img-top">
                                         <div class="card-body">
                                             <h3 class="">Cultura</h3>
@@ -130,18 +144,7 @@
                                             <p>Realizar la 2.a edición del Premio CAME Cultura.</p>
                                         </div>
                                     </div>
-                                    <div class="card shadow-sm border-light mt-4">
-                                        <img src="images/logos/eerr@4x.png" alt="Economías Regionales"
-                                            class="card-img-top">
-                                        <div class="card-body">
-                                            <h3 class="">Economías Regionales</h3>
-                                            <p>
-                                            <p> Continuar promoviendo el tratamiento del proyecto de Ley "Régimen de
-                                                Promoción y Agregado de Valor de las Economías Regionales".</p>
-                                            </ul>
-                                            </p>
-                                        </div>
-                                    </div>
+
                                     <div class="card shadow-sm border-light mt-4">
                                         <img src="images/logos/jovenes@4x.png" alt="Jóvenes" class="card-img-top">
                                         <div class="card-body">
@@ -204,7 +207,7 @@
                                         </div>
                                     </div>
                                     <div class="card shadow-sm border-light mt-4">
-                                        <img src="images/logos/innovacion@4x.png" alt="Innovación" class="card-img-top">
+                                        <img src="images/logos/innovacion.png" alt="Innovación" class="card-img-top">
                                         <div class="card-body">
                                             <h3 class="">Innovación</h3>
                                             <p>Fortalecer a la red de líderes tecnológicos en todo el país a través de
