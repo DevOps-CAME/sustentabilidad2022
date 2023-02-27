@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="es-AR">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es-AR">
 
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WQKY45Q99H"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF34RFCEWF"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -12,7 +12,7 @@
     }
     gtag('js', new Date());
 
-    gtag('config', 'G-WQKY45Q99H');
+    gtag('config', 'G-BF34RFCEWF');
     </script>
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -34,7 +34,7 @@
 
     <!-- Stylesheets
 	============================================= -->
-    <link href="http://fonts.googleapis.com/css?family=Heebo:300,400,500,700,900" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Heebo:300,400,500,700,900" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
     <link rel="stylesheet" href="style.css" type="text/css" />
     <link rel="stylesheet" href="css/dark.css" type="text/css" />
