@@ -102,11 +102,11 @@
 
                             </p>
 
-                            <div class="col-md-12 col-sm-12 pb-0">
+                            <div class="col-md-3 col-sm-12 pb-0">
                         
                         <p style="padding: 0.25rem; background: #d1f2eb; border-bottom: 5px solid #1abc9c; margin: 0.25rem 0rem 0.25rem 0rem">
                             <strong> Beneficios vigentes para el personal:</strong>
-
+                            </div>
                             
                         </p>
 
@@ -166,12 +166,32 @@
                                     <h4>Asimismo, y en el marco de las acciones del programa de Seguridad e Higiene, 
                                         realizamos capacitaciones a responsables de piso y a personal de mantenimiento.</h4>
 
+                                        <div class="col-md-12 "><img src="images/IMG_2196 mail.png" alt="">
+
+</div>
 
 
                                 </div>
 
-                        </div>
-                 </div>    
+                                
+                        
+                 </div>   
+
+                 
+                            
+                                       
+                                            
+                                     
+
+                                       
+                                   
+
+                                
+                                   
+                            </div>
+
+
+                 
                  </div>           
             </section>
               
@@ -223,17 +243,49 @@
 
                                                                     </div>
 
+
+
                                                                     </div>
                             
 
 
-                            </p>
+                                                                    
+
+                           
                         </div>
 
+
+                        
+                            <div class="col-md-12">                                  
+                                
+                                
+                                
+                                <div class="col-md-12">
+                                    <div class="masonry-thumbs grid-container grid-2 has-init-isotope" data-big="" data-lightbox="gallery" >
+                                        <a class="grid-item" href="" data-lightbox="gallery-item" ><img src="images/galeria/FOTO PRESENTACION.jpg" alt=""></a>
+                                        <a class="grid-item" href="" data-lightbox="gallery-item" ><img src="images/galeria/IMG-20221206-WA0032.jpg" alt=""></a>
+      
+                                    </div>
+                                </div>
+
+                            </div>
+
                        
+                  
+
+
+
+
+
+
+
+
+
 
 
             </div>
+</section>
+
 
             <!-- #content end -->
 
@@ -258,29 +310,59 @@
                                          
 
                         <div class="row">
-                            <div class="col-md-9 text-justify">
+                            <div class="col-md-6 text-justify">
 
                                 <p>Bajo la modalidad virtual, realizamos talleres preparatorios de Rondas de Negocios, en los que participaron 
                             las entidades organizadoras, los organismos acompañantes y los empresarios interesados en la ronda convocante. </p>
 
                                 <p>En el marco de diversos encuentros nacionales e internacionales, 
-                            organizamos 11 Rondas de Negocios, la mayoría de ellas presenciales. </p>
+                            organizamos <strong>11 Rondas de Negocios</strong>, la mayoría de ellas presenciales. </p>
 
                                
                             </div>
-                            <div class="col-md-3">
-                                <div class="masonry-thumbs grid-container grid-1 has-init-isotope" data-big="" data-lightbox="gallery" style="position: relative; height: 175.812px;">
-                                    <!-- <a class="grid-item" href="images/fotos/seg_hig/01.jpg"
-                                        data-lightbox="gallery-item"><img src="images/fotos/seg_hig/01.jpg" alt=""></a> -->
-                                    <a class="grid-item" href="images/fotos/seg_hig/02.jpg" data-lightbox="gallery-item" style="position: absolute; left: 0%; top: 0px;">COLOCAR FOTO<img src="images/fotos/seg_hig/02.jpg" alt=""></a>
 
+                            <div class="col-md-6">
+                                
+
+                                <div class="entry-image">
+                                    <div class="fslider" data-arrows="false" data-lightbox="gallery">
+                                        <div class="flexslider">
+                                            <div class="slider-wrap">
+                                                <div class="slide"><a href="images/sec-rsds/MochiSolidaria5.jpg"
+                                                        data-lightbox="gallery-item"><img
+                                                            src="images/galeria/FOTO FIAR 1.jpg"
+                                                            alt="Standard Post with Gallery"></a></div>
+                                                <div class="slide"><a href="images/sec-rsds/MochiSolidaria.jpg"
+                                                        data-lightbox="gallery-item"><img
+                                                            src="images/galeria/FOTO FIAR 5.jpg"
+                                                            alt="Standard Post with Gallery"></a></div>
+                                                <div class="slide"><a href="images/sec-rsds/MochiSolidaria2.jpg"
+                                                        data-lightbox="gallery-item"><img
+                                                            src="images/galeria/FOTO RONDA GUALEGUAYCHÚ.jpg"
+                                                            alt="Standard Post with Gallery"></a></div>
+                                                <div class="slide"><a href="images/sec-rsds/MochiSolidaria3.png"
+                                                        data-lightbox="gallery-item"><img
+                                                            src="images/galeria/RONDA MIXTA SAN MIGUEL 22.jpeg"
+                                                            alt="Standard Post with Gallery"></a></div>
+                                                <div class="slide"><a href="images/sec-rsds/MochiSolidaria4.jpeg"
+                                                        data-lightbox="gallery-item"><img
+                                                            src="images/galeria/Entrevistas mesa 1 Chivilcoy.PNG"
+                                                            alt="Standard Post with Gallery"></a></div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
+
                             </div>
+
+
+                               
+                           
 
                         </div>
                   
 
-                    
+                        
 
 
                 </div>
@@ -306,8 +388,8 @@
                     <div class="col-12 text-justify">
                                 <div class="row">
                                     <div class="col-sm-12 col-md-4 ">
-                                        <p> Continuamos fortaleciendo vínculos con nuevos actores que representan
-                                             alternativas de financiamiento no tradicionales, como lo son la Comisión 
+                                        <p> Continuamos fortaleciendo vínculos con <strong>nuevos actores que representan
+                                             alternativas de financiamiento no tradicionales</strong>, como lo son la Comisión 
                                              Nacional de Valores (CNV), que regula los instrumentos del Mercado de Capitales 
                                              para Pymes, y la Asociación Argentina de Leasing (ALA Leasing). Además, profundizamos 
                                              el trabajo con los bancos públicos BICE y BNA y con la Secretaría de Industria y Desarrollo 
@@ -318,7 +400,7 @@
                                         </p>
                                     </div>
                                     <div class="col-sm-12 col-md-4">
-                                        <p> Junto a la CNV lanzamos la Guía Pyme CNV Instrumentos del Mercado de Capitales.
+                                        <p> Junto a la CNV lanzamos la <strong>Guía Pyme CNV Instrumentos del Mercado de Capitales.</strong>
                                         </p>
                                     </div>
                                     <div class="col-sm-12 col-md-4">
@@ -341,7 +423,7 @@
                                         </p>
                                     </div>
                                     <div class="col-sm-12 col-md-3">
-                                        <p> Asesoramos a 992 entidades, pymes y emprendedores. 185 proyectos 
+                                        <p> Asesoramos a <strong>992 entidades, pymes y emprendedores.</strong> 185 proyectos 
                                             fueron analizados teniendo en cuenta sus necesidades e inversión, y 
                                             fueron derivados a diferentes organismos.
                                         </p>
@@ -351,7 +433,7 @@
                                             diferentes acciones y seminarios web en vivo online, hoy disponibles en el canal de Youtube de CAME.
                                     </div>
                                     <div class="col-sm-12 col-md-3">
-                                        <p> Creamos el podcast “Potenciando negocios”: a través de esta nueva herramienta acercamos conceptos e ideas para gestionar mejor los negocios y para alcanzar un crecimiento rentable y sostenido.
+                                        <p> Creamos el <strong>podcast “Potenciando negocios”</strong>: a través de esta nueva herramienta acercamos conceptos e ideas para gestionar mejor los negocios y para alcanzar un crecimiento rentable y sostenido.
                                     </div>
                                     
                                 </div>
@@ -377,7 +459,7 @@
 
 
 
-                        <h3 class="sobre-reporte fw-bolder h4 my-3"">IMAF:
+                        <h3 class="sobre-reporte fw-bolder h4 my-3">IMAF:
                                         </h3>
 
                                         <p>
@@ -387,7 +469,86 @@
                             <p>
 
 
-                            <div class="content-wrap m-0 p-0">
+                            <div class="row gallery-categories gutter-20">
+                                    <div class="col-md-7">
+                                    <div style="background: url('images/galeria/1.jpg') no-repeat center center; background-size: cover; height: 250px;">
+                                    <div class="vertical-middle p-4 dark">
+                                    <div class="heading-block m-0 border-0 w-50">
+                                    
+                                  
+                                    </div>
+                                    </div>
+                                    </div>
+                                    </div>
+
+                                    <div class="col-md-5">
+                                    <div style="background: url('images/galeria/2.jpg') no-repeat center center; background-size: cover; height: 250px;">
+                                    <div class="vertical-middle p-4">
+                                    <div class="heading-block m-0 border-0 w-50">
+                                    
+                                    
+                                    </div>
+                                    </div>
+                                    </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                    <div style="background: url('images/galeria/3.jpg') no-repeat 50% 40%; background-size: cover; height: 250px;">
+                                    <div class="vertical-middle p-4">
+                                    <div class="heading-block m-0 border-0 w-50">
+                                  
+                                    
+                                    </div>
+                                    </div>
+                                    </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                    <div style="background: url('images/galeria/4.jpg') no-repeat 100% 100%; background-size: cover; height: 250px;">
+                                    <div class="vertical-middle p-4">
+                                    <div class="heading-block m-0 border-0 w-50">
+                                    
+                                    
+                                    </div>
+                                    </div>
+                                    </div>
+                                    </div>
+
+                                    <div class="col-md-4">
+                                    <div style="background: url('images/galeria/5.jpg') no-repeat 20% 50%; background-size: cover; height: 250px;">
+                                    <div class="vertical-middle p-4">
+                                    <div class="heading-block m-0 border-0 w-50">
+                                    
+                                    
+                                    </div>
+                                    </div>
+                                    </div>
+                                    </div>
+                                            <div class="col-md-5">
+                                            <div style="background: url('images/galeria/6.jpg') no-repeat 50% 80%; background-size: cover; height: 250px;">
+                                            <div class="vertical-middle p-4">
+                                            <div class="heading-block m-0 border-0 w-50">
+                                            
+                                    
+                                            </div>
+                                            </div>
+                                            </div>
+                                            </div>
+                                    <div class="col-md-7">
+                                    <div style="background: url('images/galeria/7.jpg') no-repeat center center; background-size: cover; height: 250px;">
+                                    <div class="vertical-middle p-4">
+                                    <div class="heading-block m-0 border-0 w-50">
+                                    
+                                    
+                                    </div>
+                                    </div>
+                                    </div>
+                                    </div>
+                            </div>
+
+                
+</br>
+
 
 
                 <!-- 3 bloques
