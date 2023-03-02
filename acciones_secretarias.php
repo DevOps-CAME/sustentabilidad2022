@@ -8,29 +8,24 @@
 
         <?php include "header.php"; ?>
 
-
-        <div class="section parallax mb-0 mt-0 d-flex align-items-center medio-ambiente portada">
+        <div class="section parallax mb-0 mt-0 d-flex align-items-center nuevas-comisiones portada">
             <div class="container clearfix">
-                <div class="arr-der">
-                    <img id="portada-mundito" src="images/portada_mundito.png" width="100%">
-                </div>
-                <div class="arr-izk">
-                    <img id="portada-blanco" src="images/portada_blanco.gif" width="100%">
-                </div>
                 <div>
                     <h2 class="titulo-seccion" style="color: #fff;">Secretarías y Departamentos</h2>
                 </div>
             </div>
+            <div class="shape-divider" data-shape="wave-6" data-height="100" data-position="bottom"></div>
         </div>
 
 
         <!--Administración de presupuestos
         ======================================== -->
-        <section id="Administración-de-presupuestos">
+        <section id="Administración-de-presupuestos ">
             <div class="content-wrap">
-                <div class="container clearfix">
 
-                    <h2 class="sobre-reporte fw-bolder my-3">Administración de presupuestos</h2>
+                <div class="container clearfix mt-4">
+
+                    <h2 class="underline--magical nuevas-comisiones">Administración de presupuestos</h2>
 
                     <div class="badge rounded-pill badge-comunidad">
                         <i class="mx-auto icon-comments-alt"></i>Comunidad
@@ -70,7 +65,7 @@
 
                     <div class="row justify-content-center">
 
-                        <div class="resaltado desarrollo-comunidad col-md-8 col-sm-12 m-2 p-4">
+                        <div class="resaltado nuevas-comisiones col-md-8 col-sm-12 m-2 p-4">
 
                             <p>
 
@@ -95,7 +90,7 @@
             <div class="container clearfix">
 
 
-                <h2 class="sobre-reporte fw-bolder my-3">Recursos Humanos y Seguridad e Higiene</h2>
+                <h2 class="underline--magical nuevas-comisiones">Recursos Humanos y Seguridad e Higiene</h2>
 
                 <div class="badge rounded-pill badge-estandares">
                     <i class="mx-auto icon-users1"></i>Estándares Laborales
@@ -110,12 +105,9 @@
 
                 </p>
 
-                <div class="col-md-3 col-sm-12 pb-0">
 
-                    <p
-                        style="padding: 0.25rem; background: #d1f2eb; border-bottom: 5px solid #1abc9c; margin: 0.25rem 0rem 0.25rem 0rem">
-                        <strong> Beneficios vigentes para el personal:</strong>
-                </div>
+                <h3 class="subtitulo--magical nuevas-comisiones">
+                    Beneficios vigentes para el personal:</h3>
 
                 </p>
 
@@ -187,17 +179,6 @@
 
         </div>
 
-
-
-
-
-
-
-
-
-
-
-
         </div>
 
 
@@ -212,9 +193,9 @@
     <!-- Capacitación
 		============================================= -->
     <section id="capacitacion">
-        <div class="content-wrap">
-            <div class="container clearfix">
-                <h2 class="sobre-reporte fw-bolder my-3">Capacitación</h2>
+        <div class="content-wrap mt-5">
+            <div class="container">
+                <h2 class="underline--magical nuevas-comisiones">Capacitación</h2>
 
                 <div class="badge rounded-pill badge-comunidad">
                     <i class="mx-auto icon-comments-alt"></i>Comunidad
@@ -224,8 +205,8 @@
 
                 <div class="col-12 mt-4 text-justify">
                     <p>
-                        En 2022 implementamos la nueva <a href="https://www.came-educativa.com.ar/"
-                            class="h4 text-dark">Escuela de Negocios CAME</a>
+                        En 2022 implementamos la nueva <a href="https://www.came-educativa.com.ar/">Escuela de Negocios
+                            CAME</a>
                     </p>
 
                     <p>
@@ -249,44 +230,33 @@
 
                     <div class="row justify-content-center">
 
-                        <div class="resaltado desarrollo-comunidad col-md-8 col-sm-12 m-2 p-4">
+                        <div class="resaltado nuevas-comisiones col-md-8 col-sm-12 my-4 p-4">
 
                             <p>
-
                                 En total, tuvimos 92.300 participantes en nuestras capacitaciones.
                             </p>
 
                         </div>
-
-
-
                     </div>
-
-
-
-
-
-
-                </div>
-
-
-
-                <div class="col-md-12">
-
-
 
                     <div class="col-md-12">
                         <div class="masonry-thumbs grid-container grid-2 has-init-isotope" data-big=""
                             data-lightbox="gallery">
-                            <a class="grid-item" href="" data-lightbox="gallery-item"><img
-                                    src="images/galeria/FOTO PRESENTACION.jpg" alt=""></a>
-                            <a class="grid-item" href="" data-lightbox="gallery-item"><img
-                                    src="images/galeria/IMG-20221206-WA0032.jpg" alt=""></a>
+                            <a class="grid-item" href="images/galeria/PRESENTACION.jpg" data-lightbox="gallery-item">
+                                <img src="images/galeria/PRESENTACION.jpg">
+                            </a>
+
+                            <a class="grid-item" href="images/galeria/IMG-20221206-WA0032.jpg"
+                                data-lightbox="gallery-item"><img src="images/galeria/IMG-20221206-WA0032.jpg"
+                                    alt=""></a>
 
                         </div>
                     </div>
 
                 </div>
+
+
+
 
 
 
@@ -316,7 +286,7 @@
 
 
 
-                <h2 class="sobre-reporte fw-bolder my-3">Rondas de Negocios</h2>
+                <h2 class="underline--magical nuevas-comisiones">Rondas de Negocios</h2>
 
 
 
@@ -345,27 +315,24 @@
 
 
                         <div class="entry-image">
-                            <div class="fslider" data-arrows="false" data-lightbox="gallery">
+                            <div class="fslider" data-arrows="true" data-lightbox="gallery">
                                 <div class="flexslider">
                                     <div class="slider-wrap">
-                                        <div class="slide"><a href="images/sec-rsds/MochiSolidaria5.jpg"
-                                                data-lightbox="gallery-item"><img src="images/galeria/FOTO FIAR 1.jpg"
-                                                    alt="Standard Post with Gallery"></a></div>
-                                        <div class="slide"><a href="images/sec-rsds/MochiSolidaria.jpg"
-                                                data-lightbox="gallery-item"><img src="images/galeria/FOTO FIAR 5.jpg"
-                                                    alt="Standard Post with Gallery"></a></div>
-                                        <div class="slide"><a href="images/sec-rsds/MochiSolidaria2.jpg"
+                                        <div class="slide"><a href="images/galeria/fiar1.jpg"
+                                                data-lightbox="gallery-item"><img src="images/galeria/fiar1.jpg"></a>
+                                        </div>
+                                        <div class="slide"><a href="images/galeria/fiar5.jpg"
+                                                data-lightbox="gallery-item"><img src="images/galeria/fiar5.jpg"></a>
+                                        </div>
+                                        <div class="slide"><a href="images/galeria/ronda_guale.jpg"
                                                 data-lightbox="gallery-item"><img
-                                                    src="images/galeria/FOTO RONDA GUALEGUAYCHÚ.jpg"
-                                                    alt="Standard Post with Gallery"></a></div>
-                                        <div class="slide"><a href="images/sec-rsds/MochiSolidaria3.png"
+                                                    src="images/galeria/ronda_guale.jpg"></a></div>
+                                        <div class="slide"><a href="images/galeria/ronda_sanmiguel.jpeg"
                                                 data-lightbox="gallery-item"><img
-                                                    src="images/galeria/RONDA MIXTA SAN MIGUEL 22.jpeg"
-                                                    alt="Standard Post with Gallery"></a></div>
-                                        <div class="slide"><a href="images/sec-rsds/MochiSolidaria4.jpeg"
+                                                    src="images/galeria/ronda_sanmiguel.jpeg"></a></div>
+                                        <div class="slide"><a href="images/galeria/chivilcoy.PNG"
                                                 data-lightbox="gallery-item"><img
-                                                    src="images/galeria/Entrevistas mesa 1 Chivilcoy.PNG"
-                                                    alt="Standard Post with Gallery"></a></div>
+                                                    src="images/galeria/chivilcoy.PNG"></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -396,192 +363,179 @@
             <div class="content-wrap">
                 <div class="container clearfix">
 
-                    <h2 class="sobre-reporte fw-bolder my-3">Financiamiento y Competitividad Pyme</h2>
+                    <h2 class="underline--magical nuevas-comisiones">Financiamiento y Competitividad Pyme</h2>
 
                     <div class="badge rounded-pill badge-comunidad">
                         <i class="mx-auto icon-comments-alt"></i>Comunidad
                     </div>
 
 
-                    <div class="col-12 text-justify">
-                        <div class="row">
-                            <div class="col-sm-12 col-md-4 ">
-                                <p> Continuamos fortaleciendo vínculos con <strong>nuevos actores que representan
-                                        alternativas de financiamiento no tradicionales</strong>, como lo son la
-                                    Comisión
-                                    Nacional de Valores (CNV), que regula los instrumentos del Mercado de Capitales
-                                    para Pymes, y la Asociación Argentina de Leasing (ALA Leasing). Además,
-                                    profundizamos
-                                    el trabajo con los bancos públicos BICE y BNA y con la Secretaría de Industria y
-                                    Desarrollo
-                                    Productivo (ex Ministerio de Desarrollo Productivo). Estos organismos nos
-                                    acompañaron en los
-                                    talleres regionales de FinanCAME brindando información de las líneas e instrumentos
-                                    vigentes
-                                    para MiPyMEs y emprendedores.
+                    <div class="row">
+                        <div class="col-md-12 ">
+                            <p> Continuamos fortaleciendo vínculos con <strong>nuevos actores que representan
+                                    alternativas de financiamiento no tradicionales</strong>, como lo son la
+                                Comisión
+                                Nacional de Valores (CNV), que regula los instrumentos del Mercado de Capitales
+                                para Pymes, y la Asociación Argentina de Leasing (ALA Leasing). Además,
+                                profundizamos
+                                el trabajo con los bancos públicos BICE y BNA y con la Secretaría de Industria y
+                                Desarrollo
+                                Productivo (ex Ministerio de Desarrollo Productivo). Estos organismos nos
+                                acompañaron en los
+                                talleres regionales de FinanCAME brindando información de las líneas e instrumentos
+                                vigentes
+                                para MiPyMEs y emprendedores.
 
-                                </p>
-                            </div>
-                            <div class="col-sm-12 col-md-4">
-                                <p> Junto a la CNV lanzamos la <strong>Guía Pyme CNV Instrumentos del Mercado de
-                                        Capitales.</strong>
-                                </p>
-                            </div>
-                            <div class="col-sm-12 col-md-4">
-                                <p> De la mano de la Escuela de Negocios de CAME, presentamos el Módulo para Pymes
-                                    del Programa de Educación Financiera, disponible en la plataforma de dicho espacio
-                                    educativo.
-                                </p>
-                            </div>
-
+                            </p>
                         </div>
-
-
-                    </div>
-                    <div class="col-12 text-justify">
-                        <div class="row">
-                            <div class="col-sm-12 col-md-3 ">
-                                <p> Seguimos con el Programa de Educación Financiera, las charlas virtuales de CAME
-                                    Incuba
-                                    y, a su vez, sumamos el ciclo de capacitación para entidades.
-
-
-                                </p>
-                            </div>
-                            <div class="col-sm-12 col-md-3">
-                                <p> Asesoramos a <strong>992 entidades, pymes y emprendedores.</strong> 185 proyectos
-                                    fueron analizados teniendo en cuenta sus necesidades e inversión, y
-                                    fueron derivados a diferentes organismos.
-                                </p>
-                            </div>
-                            <div class="col-sm-12 col-md-3">
-                                <p> Generamos nuevos contenidos para pymes, emprendedores y entidades a través de
-                                    diferentes acciones y seminarios web en vivo online, hoy disponibles en el canal de
-                                    Youtube de CAME.
-                            </div>
-                            <div class="col-sm-12 col-md-3">
-                                <p> Creamos el <strong>podcast “Potenciando negocios”</strong>: a través de esta nueva
-                                    herramienta acercamos conceptos e ideas para gestionar mejor los negocios y para
-                                    alcanzar un crecimiento rentable y sostenido.
-                            </div>
-
+                        <div class="col-md-4">
+                            <p> Junto a la CNV lanzamos la <strong>Guía Pyme CNV Instrumentos del Mercado de
+                                    Capitales.</strong>
+                            </p>
                         </div>
-
-
-                    </div>
-
-                    <div class="col-12 mt-4 text-justify">
-
-
-                        <p>
-
-                            Asimismo, 30 emprendedores de todo el país fueron becados para participar de la primera
-                            edición del Programa de Pre
-                            Incubación para aquellos que quieren poner en marcha su idea-negocio y lograr realizar sus
-                            primeras ventas.</p>
-                        <p>
-
-                        <p>
-                            En abril y julio realizamos las dos convocatorias anuales para emprendedores que quisieron
-                            acceder a mentorías a
-                            través del Programa Comunidad Mentora. A partir de la convocatoria, se completaron 30
-                            mentorías con éxito.
-
-
-                    </div>
-
-
-
-                    <h3 class="sobre-reporte fw-bolder my-3">IMAF:
-                    </h3>
-
-                    <p>
-
-                        Asimismo, 30 emprendedores de todo el país fueron becados para participar de la primera edición
-                        del Programa de Pre
-                        Incubación para aquellos que quieren poner en marcha su idea-negocio y lograr realizar sus
-                        primeras ventas.</p>
-                    <p>
-
-
-                    <div class="row gallery-categories gutter-20">
-                        <div class="col-md-7">
-                            <div
-                                style="background: url('images/galeria/1.jpg') no-repeat center center; background-size: cover; height: 250px;">
-                                <div class="vertical-middle p-4 dark">
-                                    <div class="heading-block m-0 border-0 w-50">
-
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-5">
-                            <div
-                                style="background: url('images/galeria/2.jpg') no-repeat center center; background-size: cover; height: 250px;">
-                                <div class="vertical-middle p-4">
-                                    <div class="heading-block m-0 border-0 w-50">
-
-
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="col-md-4">
+                            <p> De la mano de la Escuela de Negocios de CAME, presentamos el Módulo para Pymes
+                                del Programa de Educación Financiera, disponible en la plataforma de dicho espacio
+                                educativo.
+                            </p>
                         </div>
 
                         <div class="col-md-4">
-                            <div
-                                style="background: url('images/galeria/3.jpg') no-repeat 50% 40%; background-size: cover; height: 250px;">
-                                <div class="vertical-middle p-4">
-                                    <div class="heading-block m-0 border-0 w-50">
 
-
-                                    </div>
-                                </div>
-                            </div>
+                            <p> Seguimos con el Programa de Educación Financiera, las charlas virtuales de CAME
+                                Incuba y, a su vez, sumamos el ciclo de capacitación para entidades. </p>
                         </div>
 
                         <div class="col-md-4">
-                            <div
-                                style="background: url('images/galeria/4.jpg') no-repeat 100% 100%; background-size: cover; height: 250px;">
-                                <div class="vertical-middle p-4">
-                                    <div class="heading-block m-0 border-0 w-50">
-
-
-                                    </div>
-                                </div>
-                            </div>
+                            <p> Asesoramos a <strong>992 entidades, pymes y emprendedores.</strong> 185 proyectos
+                                fueron analizados teniendo en cuenta sus necesidades e inversión, y
+                                fueron derivados a diferentes organismos.
+                            </p>
                         </div>
-
                         <div class="col-md-4">
-                            <div
-                                style="background: url('images/galeria/5.jpg') no-repeat 20% 50%; background-size: cover; height: 250px;">
-                                <div class="vertical-middle p-4">
-                                    <div class="heading-block m-0 border-0 w-50">
-
-
-                                    </div>
-                                </div>
-                            </div>
+                            <p> Generamos nuevos contenidos para pymes, emprendedores y entidades a través de
+                                diferentes acciones y seminarios web en vivo online, hoy disponibles en el canal de
+                                Youtube de CAME.
                         </div>
-                        <div class="col-md-5">
-                            <div
-                                style="background: url('images/galeria/6.jpg') no-repeat 50% 80%; background-size: cover; height: 250px;">
-                                <div class="vertical-middle p-4">
-                                    <div class="heading-block m-0 border-0 w-50">
-
-
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="col-md-4">
+                            <p> Creamos el <a href="https://open.spotify.com/show/7ce5LWMLigbTlzVjgFlVfg"
+                                    target="_blank"> <strong>podcast “Potenciando negocios”</strong></a>: a través
+                                de esta nueva
+                                herramienta acercamos conceptos e ideas para gestionar mejor los negocios y para
+                                alcanzar un crecimiento rentable y sostenido.
                         </div>
-                        <div class="col-md-7">
-                            <div
-                                style="background: url('images/galeria/7.jpg') no-repeat center center; background-size: cover; height: 250px;">
-                                <div class="vertical-middle p-4">
-                                    <div class="heading-block m-0 border-0 w-50">
 
 
+
+
+
+
+                        <div class="col-md-12 ">
+
+                            <p>
+
+                                Asimismo, <strong>30 emprendedores de todo el país fueron becados</strong> para
+                                participar de la primera
+                                edición del Programa de Pre
+                                Incubación para aquellos que quieren poner en marcha su idea-negocio y lograr realizar
+                                sus
+                                primeras ventas.</p>
+                            <p>
+
+                            <p>
+                                En abril y julio realizamos las dos convocatorias anuales para emprendedores que
+                                quisieron
+                                acceder a mentorías a
+                                través del Programa Comunidad Mentora. A partir de la convocatoria, se completaron 30
+                                mentorías con éxito.
+
+
+                        </div>
+                    </div>
+
+
+                    <h3 class="sobre-reporte fw-bolder my-3">IMAF:</h3>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p>
+                                Desde FinanCAME y el área de Estadísticas, Informes y Base de Datos de la Confederación,
+                                realizamos, por quinto año consecutivo, la encuesta anual sobre el Indicador de Medición
+                                al
+                                Acceso del Financiamiento (IMAF). En esta edición nos acompañaron con sus respuestas 331
+                                entidades, pymes y emprendedores de todo el país. Entre sus resultados se destacan:
+                            </p>
+                        </div>
+
+
+                        <div class="col-md-6">
+                            <div class="  entry-image">
+                                <div class="fslider" data-arrows="true" data-lightbox="gallery" data-animation="fade"
+                                    data-autoplay="5000">
+                                    <div class="flexslider">
+                                        <div class="slider-wrap">
+                                            <div class="slide">
+                                                <a href="images/galeria/1.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/1.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/2.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/2.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/3.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/3.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/4.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/4.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/5.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/5.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/6.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/6.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/7.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/7.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/8.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/8.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/9.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/9.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/10.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/10.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/11.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/11.jpg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/galeria/12.jpg" data-lightbox="gallery-item">
+                                                    <img src="images/galeria/12.jpg">
+                                                </a>
+                                            </div>
+
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -589,7 +543,6 @@
                     </div>
 
 
-                    </br>
 
 
 
