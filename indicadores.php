@@ -295,41 +295,53 @@
                                                 Indicador 3: Cantidad de beneficiarios alcanzados a través del proyecto
                                                 Plato Lleno (donación de platos de comida de las oficinas de CAME)
 
+                                                <canvas id="ods2-ind3"></canvas>
+                                                <script>
+                                                function ods2i3() {
+                                                    var ods2i3 = document.getElementById('ods2-ind3').getContext('2d');
+                                                    var chart = new Chart(ods2i3, {
+                                                        type: 'bar',
+                                                        data: {
+                                                            labels: ['2018', '2019', '2020', '2021',
+                                                                '2022'
+                                                            ],
+                                                            datasets: [{
+                                                                label: "Cantidad",
+                                                                data: [3698, 5029, 2769, 4046, 877],
+                                                                backgroundColor: "#f4e7ca",
+                                                                borderColor: "#d3a029",
+                                                                borderWidth: 1,
+                                                            }]
+                                                        },
+                                                        options: {
+                                                            scales: {
+                                                                y: {
+                                                                    beginAtZero: true
+                                                                }
+                                                            },
+                                                            plugins: {
+                                                                legend: {
+                                                                    display: true,
+                                                                    labels: {
+                                                                        usePointStyle: true
+                                                                    }
+                                                                }
+                                                            },
+                                                            elements: {
+                                                                bar: {
+                                                                    borderWidth: 1,
+                                                                    borderRadius: 4,
+                                                                    borderSkipped: false
+                                                                }
+                                                            }
+                                                        }
+                                                    });
 
-                                                <div class="table-responsive">
-                                                    <table class="table table-hover">
-                                                        <thead class="ods-2">
-                                                            <tr>
-                                                                <th></th>
-                                                                <td>Cantidad</td>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-                                                                <th>2018</th>
-                                                                <td>574</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th>2019</th>
-                                                                <td>396</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th>2020</th>
-                                                                <td>0</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th>2021</th>
-                                                                <td>0</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th>2022</th>
-                                                                <td>236</td>
-                                                            </tr>
-                                                        </tbody>
 
 
-                                                    </table>
-                                                </div>
+                                                };
+                                                </script>
+
                                             </div>
                                         </div>
                                     </div>
@@ -347,7 +359,48 @@
                                             <div class="card-body p-4">
                                                 Indicador 1: Horas de capacitación brindadas desde el área de CAME
                                                 Educativa
-                                                <div class="table">
+
+                                                <canvas id="ods4-ind1"></canvas>
+                                                <script>
+                                                function ods4i1() {
+                                                    // Obtener la referencia al canvas
+                                                    var ods4i1 = document.getElementById("ods4-ind1").getContext(
+                                                        "2d");
+
+                                                    // Definir los datos del gráfico
+                                                    var data4i1 = {
+                                                        labels: ["2018", "2019", "2020", "2021", "2022"],
+                                                        datasets: [{
+                                                            label: "Cantidad",
+                                                            data: [3698, 5029, 2769, 4046, 877],
+                                                            backgroundColor: '#f0c7cc',
+                                                            borderColor: '#c31f33',
+                                                            borderWidth: 1
+                                                        }, ],
+                                                    };
+
+                                                    // Definir las opciones del gráfico
+                                                    var options = {
+                                                        scales: {
+                                                            yAxes: [{
+                                                                ticks: {
+                                                                    beginAtZero: true,
+                                                                },
+                                                            }, ],
+                                                        },
+                                                    };
+
+                                                    // Crear el gráfico
+                                                    var chart = new Chart(ods4i1, {
+                                                        type: "bar",
+                                                        data: data4i1,
+                                                        options: options,
+                                                    });
+
+                                                }
+                                                </script>
+
+                                                <!--  <div class="table">
                                                     <table class="table table-hover">
                                                         <thead class="ods-4">
                                                             <tr>
@@ -381,11 +434,53 @@
 
 
                                                     </table>
-                                                </div>
+                                                </div> -->
                                                 Indicador 2: Cantidad de participantes en capacitaciones realizadas por
                                                 CAME Educativa
-
-                                                <div class="table">
+                                                <canvas id="ods4-ind2"></canvas>
+                                                <script>
+                                                function ods4i2() {
+                                                    var ods4i2 = document.getElementById('ods4-ind2').getContext('2d');
+                                                    var chart = new Chart(ods4i2, {
+                                                        type: 'bar',
+                                                        data: {
+                                                            labels: ['2018', '2019', '2020', '2021', '2022'],
+                                                            datasets: [{
+                                                                label: 'Cantidad',
+                                                                data: [132202, 149500, 245000, 85300,
+                                                                    92300
+                                                                ],
+                                                                backgroundColor: '#f0c7cc',
+                                                                borderColor: '#c31f33',
+                                                                borderWidth: 1
+                                                            }]
+                                                        },
+                                                        options: {
+                                                            scales: {
+                                                                y: {
+                                                                    beginAtZero: true
+                                                                }
+                                                            },
+                                                            plugins: {
+                                                                legend: {
+                                                                    display: true,
+                                                                    labels: {
+                                                                        usePointStyle: true
+                                                                    }
+                                                                }
+                                                            },
+                                                            elements: {
+                                                                bar: {
+                                                                    borderWidth: 1,
+                                                                    borderRadius: 4,
+                                                                    borderSkipped: false
+                                                                }
+                                                            }
+                                                        }
+                                                    });
+                                                };
+                                                </script>
+                                                <!-- <div class="table">
                                                     <table class="table table-hover">
                                                         <thead class="ods-4">
                                                             <tr>
@@ -419,11 +514,31 @@
 
 
                                                     </table>
-                                                </div>
+                                                </div> -->
                                                 Indicador 3: Cantidad de colaboradores de CAME becados para desarrollo
                                                 de carrera
+                                                <canvas id="ods4-ind3"></canvas>
+                                                <script>
+                                                function ods4i3() {
+                                                    var ods4i3 = document.getElementById('ods4-ind3').getContext('2d');
+                                                    var chart = new Chart(ods4i3, {
+                                                        type: 'bar',
+                                                        data: {
+                                                            labels: ['2018', '2019', '2020', '2021', '2022'],
+                                                            datasets: [{
+                                                                label: "Cantidad",
+                                                                data: [25, 19, 17, 20, 14],
+                                                                backgroundColor: '#f0c7cc',
+                                                                borderColor: '#c31f33',
+                                                                borderWidth: 1
+                                                            }]
+                                                        }
+                                                    });
+                                                };
+                                                </script>
 
-                                                <div class="table-responsive">
+
+                                                <!--  <div class="table-responsive">
                                                     <table class="table table-hover">
                                                         <thead class="ods-4">
                                                             <tr>
@@ -457,7 +572,7 @@
 
 
                                                     </table>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -476,8 +591,60 @@
                                                 Indicador 1: Proporción de mujeres respecto al total del personal de
                                                 CAME
 
+                                                <canvas id="ods5-ind1"></canvas>
+                                                <script>
+                                                function ods5i1() {
+                                                    var ods5i1 = document.getElementById('ods5-ind1').getContext('2d');
+                                                    var chart = new Chart(ods5i1, {
+                                                        type: 'bar',
+                                                        data: {
+                                                            labels: ['2018', '2019', '2020', '2021', '2022'],
+                                                            datasets: [{
+                                                                label: "Cantidad",
+                                                                data: [63, 61, 61, 60, 61],
+                                                                backgroundColor: '#fbcfca',
+                                                                borderColor: '#ef402b',
+                                                                borderWidth: 1
+                                                            }]
+                                                        },
+                                                        options: {
+                                                            scales: {
+                                                                yAxes: [{
+                                                                    ticks: {
+                                                                        beginAtZero: true,
+                                                                        callback: function(value) {
+                                                                            return value;
+                                                                        }
+                                                                    },
+                                                                    scaleLabel: {
+                                                                        display: true,
+                                                                        labelString: 'Cantidad'
+                                                                    }
+                                                                }],
+                                                                xAxes: [{
+                                                                    ticks: {
+                                                                        autoSkip: false
+                                                                    }
+                                                                }]
+                                                            },
+                                                            tooltips: {
+                                                                callbacks: {
+                                                                    label: function(tooltipItem, data) {
+                                                                        return data.datasets[tooltipItem
+                                                                                .datasetIndex].label +
+                                                                            ': ' + tooltipItem.yLabel + '%';
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    });
+                                                };
+                                                </script>
 
-                                                <div class="table-responsive">
+
+
+
+                                                <!--  <div class="table-responsive">
                                                     <table class="table table-hover">
                                                         <thead class="ods-5">
                                                             <tr>
@@ -511,7 +678,7 @@
 
 
                                                     </table>
-                                                </div>
+                                                </div> -->
                                                 Indicador 2: Número de acciones lideradas por CAME Mujeres para promover
                                                 la igualdad de género y el empoderamiento de las mujeres
 
@@ -606,8 +773,57 @@
                                                 Indicador 1: Proporción de empleados entre 20 y 30 años (promoción del
                                                 empleo joven) de CAME
 
+                                                <canvas id="ods8-i1"></canvas>
+                                                <script>
+                                                function ods8i1() {
+                                                    var ods8i1 = document.getElementById('ods8-i1').getContext('2d');
+                                                    var chart = new Chart(ods8i1, {
+                                                        type: 'bar',
+                                                        data: {
+                                                            labels: ['2018', '2019', '2020', '2021', '2022'],
+                                                            datasets: [{
+                                                                label: "Cantidad",
+                                                                data: [20, 12, 10, 7, 9],
+                                                                backgroundColor: '#e3c5cd',
+                                                                borderColor: '#8f1838',
+                                                                borderWidth: 1
+                                                            }]
+                                                        },
+                                                        options: {
+                                                            scales: {
+                                                                yAxes: [{
+                                                                    ticks: {
+                                                                        beginAtZero: true,
+                                                                        callback: function(value) {
+                                                                            return value;
+                                                                        }
+                                                                    },
+                                                                    scaleLabel: {
+                                                                        display: true,
+                                                                        labelString: 'Cantidad'
+                                                                    }
+                                                                }],
+                                                                xAxes: [{
+                                                                    ticks: {
+                                                                        autoSkip: false
+                                                                    }
+                                                                }]
+                                                            },
+                                                            tooltips: {
+                                                                callbacks: {
+                                                                    label: function(tooltipItem, data) {
+                                                                        return data.datasets[tooltipItem
+                                                                                .datasetIndex].label +
+                                                                            ': ' + tooltipItem.yLabel + '%';
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    });
+                                                };
+                                                </script>
 
-                                                <div class="table-responsive">
+                                                <!-- <div class="table-responsive">
                                                     <table class="table table-hover">
                                                         <thead class="ods-8">
                                                             <tr>
@@ -618,29 +834,29 @@
                                                         <tbody>
                                                             <tr>
                                                                 <th>2018</th>
-                                                                <td>20 %</td>
+                                                                <td>20</td>
                                                             </tr>
                                                             <tr>
                                                                 <th>2019</th>
-                                                                <td>12 %</td>
+                                                                <td>12</td>
                                                             </tr>
                                                             <tr>
                                                                 <th>2020</th>
-                                                                <td>10 %</td>
+                                                                <td>10</td>
                                                             </tr>
                                                             <tr>
                                                                 <th>2021</th>
-                                                                <td>7 %</td>
+                                                                <td>7</td>
                                                             </tr>
                                                             <tr>
                                                                 <th>2022</th>
-                                                                <td>9 %</td>
+                                                                <td>9</td>
                                                             </tr>
                                                         </tbody>
 
 
                                                     </table>
-                                                </div>
+                                                </div> -->
                                                 Indicador 2: Tasas de frecuencia de lesiones ocupacionales mortales y no
                                                 mortales en CAME
                                                 <div class="table-responsive">
@@ -702,10 +918,7 @@
                                             <div class="card-body p-4">
                                                 Indicador 1: Cantidad de consultas recibidas de entidades, pymes y
                                                 emprendedores dirigidas al área de financiamiento de CAME
-
-
-
-                                                <div class="table-responsive">
+                                                <!-- <div class="table-responsive">
                                                     <table class="table table-hover">
                                                         <thead class="ods-9">
                                                             <tr>
@@ -727,10 +940,32 @@
 
 
                                                     </table>
-                                                </div>
+                                                </div> -->
+
+                                                <canvas id="ods9-i1"></canvas>
+                                                <script>
+                                                function ods9i1() {
+                                                    var ods9i1 = document.getElementById('ods9-i1').getContext('2d');
+                                                    var chart = new Chart(ods9i1, {
+                                                        type: 'bar',
+                                                        data: {
+                                                            labels: ['2021', '2022'],
+                                                            datasets: [{
+                                                                label: "Cantidad",
+                                                                data: [2228, 1089],
+                                                                backgroundColor: '#fcdbc9',
+                                                                borderColor: '#f36d25',
+                                                                borderWidth: 1
+                                                            }]
+                                                        }
+                                                    });
+                                                };
+                                                </script>
+
+
                                                 Indicador 2: Cantidad de vistas en vivo y de reproducciones de
                                                 contenidos del departamento de Financiamiento de CAME en YouTube
-                                                <div class="table-responsive">
+                                                <!-- <div class="table-responsive">
                                                     <table class="table table-hover">
                                                         <thead class="ods-9">
                                                             <tr>
@@ -755,7 +990,27 @@
 
 
                                                     </table>
-                                                </div>
+                                                </div> -->
+                                                <canvas id="ods9-ind2"></canvas>
+                                                <script>
+                                                function ods9i2() {
+                                                    var ods9i2 = document.getElementById('ods9-ind2').getContext('2d');
+                                                    var chart = new Chart(ods9i2, {
+                                                        type: 'bar',
+                                                        data: {
+                                                            labels: ['2021', '2022'],
+                                                            datasets: [{
+                                                                label: "Cantidad",
+                                                                data: [1678, 2011],
+                                                                backgroundColor: '#fcdbc9',
+                                                                borderColor: '#f36d25',
+                                                                borderWidth: 1
+                                                            }]
+                                                        }
+                                                    });
+                                                };
+                                                </script>
+
                                             </div>
                                         </div>
                                     </div>
@@ -872,7 +1127,7 @@
                                                 </div>
                                                 Indicador 2: kg de comida (excedente) recuperada en las oficinas de CAME
                                                 donada a comedores de la Ciudad Autónoma de Buenos Aires
-                                                <div class="table-responsive">
+                                                <!-- <div class="table-responsive">
                                                     <table class="table table-hover">
                                                         <thead class="ods-12">
                                                             <tr>
@@ -904,7 +1159,28 @@
                                                             </tr>
                                                         </tbody>
                                                     </table>
-                                                </div>
+                                                </div> -->
+                                                <canvas id="ods12-ind2"></canvas>
+                                                <script>
+                                                function ods12i2() {
+                                                    var ods12i2 = document.getElementById('ods12-ind2').getContext(
+                                                        '2d');
+                                                    var chart = new Chart(ods12i2, {
+                                                        type: 'bar',
+                                                        data: {
+                                                            labels: ['2018', '2019', '2020', '2021', '2022'],
+                                                            datasets: [{
+                                                                label: "Cantidad",
+                                                                data: [200, 110, 0, 0, 172],
+                                                                backgroundColor: '#f3e3ca',
+                                                                borderColor: '#cf8d2a',
+                                                                borderWidth: 1
+                                                            }]
+                                                        }
+                                                    });
+                                                };
+                                                </script>
+
                                                 Indicador 3: Número de estrategias o políticas de turismo sostenible y
                                                 de planes de acción implantados desde CAME Turismo
                                                 <div class="table-responsive">
@@ -980,7 +1256,7 @@
                                                 credencial y votaron en las elecciones de cambio de autoridades
 
 
-                                                <div class="table-responsive">
+                                                <!-- <div class="table-responsive">
                                                     <table class="table table-hover">
                                                         <thead class="ods-16">
                                                             <tr>
@@ -1009,8 +1285,28 @@
                                                             </tr>
                                                         </tbody>
                                                     </table>
-                                                </div>
+                                                </div> -->
+                                                <canvas id="ods16-ind1"></canvas>
 
+                                                <script>
+                                                function ods16i1() {
+                                                    var ods16i1 = document.getElementById('ods16-ind1').getContext(
+                                                        '2d');
+                                                    var chart = new Chart(ods16i1, {
+                                                        type: 'bar',
+                                                        data: {
+                                                            labels: ['2019', '2020', '2021', '2022'],
+                                                            datasets: [{
+                                                                label: "Cantidad",
+                                                                data: [90, 0, 90, 145],
+                                                                backgroundColor: '#c0d5e2',
+                                                                borderColor: '#02558b',
+                                                                borderWidth: 1
+                                                            }]
+                                                        }
+                                                    });
+                                                };
+                                                </script>
 
 
                                             </div>
@@ -1208,6 +1504,27 @@
 ============================================= -->
     <script src="js/functions.js"></script>
 
+    <!-- Charts JS
+	============================================= -->
+    <script src="js/chart.js"></script>
+    <script src="js/chart-utils.js"></script>
+
+    <script>
+    window.onload = function() {
+        ods2i3();
+        ods4i1();
+        ods4i2();
+        ods4i3();
+        ods5i1();
+        ods8i1();
+        ods9i1();
+        ods9i2();
+        ods12i2();
+        ods16i1();
+
+
+    }
+    </script>
 
 
 </body>

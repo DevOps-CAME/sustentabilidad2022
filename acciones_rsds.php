@@ -8,7 +8,7 @@
 
         <?php include "header.php"; ?>
 
-        <div class="section parallax mb-0 mt-0 d-flex align-items-center medio-ambiente portada">
+        <div class="section parallax mb-0 mt-0 d-flex align-items-center nuevas-comisiones portada">
             <div class="container clearfix">
 
                 <div>
@@ -22,12 +22,12 @@
 
         <!-- Responsabilidad Social y Desarrollo Sustentable
 		============================================= -->
-        <section id="estandares-laborales">
+        <section id="nuevas-comisiones">
             <div class="content-wrap">
                 <div class="container clearfix">
 
                     <div class="col-12 mt-4 text-justify">
-                        <h2 class="subtitulo--magical medio-ambiente">Alianzas</h2>
+                        <h2 class="subtitulo--magical nuevas-comisiones">Alianzas</h2>
                         <p>
                             Por séptimo año, fuimos aliados de difusión y asesoramiento de proyectos para los
                             Premios Verdes,
@@ -42,65 +42,95 @@
                                 en políticas de cuidado para el sector privado. A su vez, participamos en mesas
                                 de debate público-privadas.
                             </p>
-                        </div>
-                        <div class="col-md-8">
-                            <div class="masonry-thumbs grid-container grid-5" data-big="1" data-lightbox="gallery">
-                                <a class="grid-item" href="images/sec-rsds/1Pyme-CAME-UNICEF.jpeg"
-                                    data-lightbox="gallery-item"><img src="images/sec-rsds/1Pyme-CAME-UNICEF.jpeg"
-                                        alt="Gallery Thumb 1"></a>
-                                <a class="grid-item" href="images/sec-rsds/2Pymes-CAME-UNICEF.jpeg"
-                                    data-lightbox="gallery-item"><img src="images/sec-rsds/2Pymes-CAME-UNICEF.jpeg"
-                                        alt="Gallery Thumb 2"></a>
-                                <a class="grid-item" href="images/sec-rsds/3Pymes-CAME-UNICEF.jpeg"
-                                    data-lightbox="gallery-item"><img src="images/sec-rsds/3Pymes-CAME-UNICEF.jpeg"
-                                        alt="Gallery Thumb 3"></a>
-                                <a class="grid-item" href="images/sec-rsds/4Pymes-CAME-UNICEF.jpeg"
-                                    data-lightbox="gallery-item"><img src="images/sec-rsds/7Pymes-CAME-UNICEF.jpeg"
-                                        alt="Gallery Thumb 4"></a>
-                                <a class="grid-item" href="images/sec-rsds/5Pymes-CAME-UNICEF.jpeg"
-                                    data-lightbox="gallery-item"><img src="images/sec-rsds/5Pymes-CAME-UNICEF.jpeg"
-                                        alt="Gallery Thumb 5"></a>
-                                <a class="grid-item" href="images/sec-rsds/6Pymes-CAME-UNICEF.jpeg"
-                                    data-lightbox="gallery-item"><img src="images/sec-rsds/6Pymes-CAME-UNICEF.jpeg"
-                                        alt="Gallery Thumb 6"></a>
-                                <a class="grid-item" href="images/sec-rsds/8Pymes-CAME-UNICEF.jpeg"
-                                    data-lightbox="gallery-item"><img src="images/sec-rsds/8Pymes-CAME-UNICEF.jpeg"
-                                        alt="Gallery Thumb 6"></a>
+                            <div class="entry-image">
+                                <div class="fslider" data-arrows="true" data-lightbox="gallery" data-animation="fade"
+                                    data-autoplay="5000">
+                                    <div class="flexslider">
+                                        <div class="slider-wrap">
+                                            <div class="slide">
+                                                <a href="images/sec-rsds/1Pymes-CAME-UNICEF.jpeg"
+                                                    data-lightbox="gallery-item">
+                                                    <img src="images/sec-rsds/1Pymes-CAME-UNICEF.jpeg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/sec-rsds/2Pymes-CAME-UNICEF.jpeg"
+                                                    data-lightbox="gallery-item">
+                                                    <img src="images/sec-rsds/2Pymes-CAME-UNICEF.jpeg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/sec-rsds/3Pymes-CAME-UNICEF.jpeg"
+                                                    data-lightbox="gallery-item">
+                                                    <img src="images/sec-rsds/3Pymes-CAME-UNICEF.jpeg">
+                                                </a>
+                                            </div>
+
+                                            <div class="slide">
+                                                <a href="images/sec-rsds/5Pymes-CAME-UNICEF.jpeg"
+                                                    data-lightbox="gallery-item">
+                                                    <img src="images/sec-rsds/5Pymes-CAME-UNICEF.jpeg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/sec-rsds/6Pymes-CAME-UNICEF.jpeg"
+                                                    data-lightbox="gallery-item">
+                                                    <img src="images/sec-rsds/6Pymes-CAME-UNICEF.jpeg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/sec-rsds/7Pymes-CAME-UNICEF.jpeg"
+                                                    data-lightbox="gallery-item">
+                                                    <img src="images/sec-rsds/7Pymes-CAME-UNICEF.jpeg">
+                                                </a>
+                                            </div>
+                                            <div class="slide">
+                                                <a href="images/sec-rsds/8Pymes-CAME-UNICEF.jpeg"
+                                                    data-lightbox="gallery-item">
+                                                    <img src="images/sec-rsds/8Pymes-CAME-UNICEF.jpeg">
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-12 mt-4 text-justify">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <p>Junto con el Consorcio internacional "Carbon Trust" organizamos 2 webinars
-                                    llamados
-                                    “Enverdecimiento de las finanzas en Argentina para combatir el cambio
-                                    climático y promover la inclusión".
-                                    En ellos, <strong>capacitamos a más de 60 personas</strong> en acceso a
-                                    herramientas de financiamiento con tasas preferenciales,
-                                    para descuento de cheques a través de un panel verde, creado por el Mercado
-                                    Argentino de Valores.
-                                </p>
-                            </div>
-                            <div class="col-md-6">
-                                <p>Dictamos un webinar junto a Low Carbon Business Action LATAM para la
-                                    presentación de tecnologías de origen europeo,
-                                    disponibles para la mejora continua del sector lácteo. Principalmente, para
-                                    la reducción de emisiones,
-                                    la economía circular y la eficiencia, y promover el programa “Low Carbon
-                                    Business and Circular Economy".
-                                    Tuvo una <strong>participación de 62 asistentes.</strong>
-                                </p>
-                            </div>
+                        <div class="col-md-4">
+                            <p>Junto con el Consorcio internacional "Carbon Trust" organizamos 2 webinars
+                                llamados
+                                “Enverdecimiento de las finanzas en Argentina para combatir el cambio
+                                climático y promover la inclusión".
+                                En ellos, <strong>capacitamos a más de 60 personas</strong> en acceso a
+                                herramientas de financiamiento con tasas preferenciales,
+                                para descuento de cheques a través de un panel verde, creado por el Mercado
+                                Argentino de Valores.
+                            </p>
+                        </div>
+                        <div class="col-md-4">
+                            <p>Dictamos un webinar junto a Low Carbon Business Action LATAM para la
+                                presentación de tecnologías de origen europeo,
+                                disponibles para la mejora continua del sector lácteo. Principalmente, para
+                                la reducción de emisiones,
+                                la economía circular y la eficiencia, y promover el programa “Low Carbon
+                                Business and Circular Economy".
+                                Tuvo una <strong>participación de 62 asistentes.</strong>
+                            </p>
                         </div>
                     </div>
 
-                    <h2 class="subtitulo--magical medio-ambiente">Intersectorial</h2>
+
+                    <h2 class="subtitulo--magical nuevas-comisiones">Intersectorial</h2>
 
                     <div class="row">
+
                         <div class="col-12 mt-4 text-justify">
-                            <h3 class="subtitulo--magical medio-ambiente">Secretaría de Capacitación</h3>
-                            <p>Realizamos una gestión enfocada en dos aristas: responder en tiempo y forma,
+
+
+                            <h3 class="subtitulo--magical nuevas-comisiones">Secretaría de Capacitación</h3>
+                            <p>
+                                <img src="images/logos/capacitacion@4x.png" alt="Secretaría de Capacitación"
+                                    style="width: 15rem; float:left; margin-right: 1rem;">
+                                Realizamos una gestión enfocada en dos aristas: responder en tiempo y forma,
                                 y con calidad, las consultas de las entidades asociadas sobre temas presupuestarios.
                                 Asimismo, seguir generando mecanismos
                                 para dar cada vez mayor transparencia a la distribución de los fondos destinados al
@@ -111,10 +141,15 @@
                         </div>
                     </div>
 
-                    <h3 class="subtitulo--magical medio-ambiente">Economías Regionales</h3>
-                    <div class="row">
+                    <h3 class="subtitulo--magical nuevas-comisiones">Economías Regionales</h3>
 
-                        <div class="col-md-4">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <img src="images/logos/regionales@4x.png" alt="Economías Regionales"
+                                style="width: 15rem; margin-right: 1rem;">
+                        </div>
+
+                        <div class="col-md-3">
                             <p>Participamos en calidad de disertantes en el tercer ciclo de charlas abiertas
                                 sobre
                                 “Estrategias de Diferenciación en Sistemas Agroalimentarios”, brindado por la
@@ -122,7 +157,7 @@
                                 de Agronomía de la Universidad de Buenos Aires (UBA).
                             </p>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-3">
                             <p>Alimentos Argentinos: analizamos técnicamente los protocolos, ante la posibilidad
                                 de
                                 presentar equivalencias entre dicho programa y el Sello Came Sustentable. Entre
@@ -133,7 +168,7 @@
                             </p>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-3">
                             <p>Fair Trade Latinoamérica: trabajamos conjuntamente en la creación de una alianza
                                 que tiene como fin
                                 capacitar y difundir los conceptos y buenas prácticas vinculadas al “Comercio
@@ -142,10 +177,11 @@
                         </div>
                     </div>
 
-                    <h3 class="subtitulo--magical medio-ambiente">Comercio</h3>
+                    <h3 class="subtitulo--magical nuevas-comisiones">Comercio</h3>
                     <div class="row">
                         <div class="col-md-12">
-
+                            <img src="images/logos/comercio@4x.png" alt="Comercio"
+                                style="width: 15rem; margin-right: 1rem;">
                             <p>Fair Trade Latinoamérica: trabajamos conjuntamente en la creación de una alianza
                                 que tiene como fin
                                 capacitar y difundir los conceptos y buenas prácticas vinculadas al “Comercio
@@ -155,8 +191,9 @@
 
                     </div>
 
-                    <h3 class="subtitulo--magical medio-ambiente">Financiamiento</h3>
-
+                    <h3 class="subtitulo--magical nuevas-comisiones">Financiamiento</h3>
+                    <img src="images/logos/financiamiento@4x.png" alt="Financiamiento"
+                        style="width: 15rem; margin-right: 1rem;">
                     <div class="row">
                         <div class="col-md-4">
                             <p>A partir de la próxima convocatoria de Crédito Fiscal del Ministerio de Trabajo,
@@ -190,8 +227,8 @@
                     <div class="row">
 
                         <div class="col-md-12">
-                            <h3 class="subtitulo--magical medio-ambiente">Comunicación con impacto</h3>
-
+                            <h3 class="subtitulo--magical nuevas-comisiones">Comunicación con impacto</h3>
+                            <img src="images/CAME.png" alt="CAME" style="width: 15rem; margin-right: 1rem; float:left;">
                             <p>Acompañamos al departamento de Comunicación de CAME, así como también a los demás
                                 sectores,
                                 en el desarrollo de campañas de comunicación referidas a sustentabilidad en sus
@@ -202,25 +239,37 @@
 
                     </div>
 
-                    <div class="row justify-content-center">
-                        <div class="col-md-12">
-                            <h3 class="underline--magical medio-ambiente"> Sustentabilidad</h3>
-                        </div>
+                    <div class="row justify-content-center mt-4">
+                        <h2 class="underline--magical nuevas-comisiones">Sustentabilidad</h2>
+                        <p class="text-center"><a href="https://came.org.ar/sustentabilidad2021/" target="_blank"><img
+                                    src="images/tapas/2021.png" alt="Reporte de Gestión Social y Ambiental 2021"
+                                    style="width: 20rem;"></a></p>
+
                         <p>Realizamos el séptimo Reporte de Gestión Social y Ambiental de la entidad en formato
                             micrositio, el cual cuenta con 722 visitas.</p>
+
+
                     </div>
 
-                    <div class="row">
-                        <div class="col-md-12">
-                            <h3 class="underline--magical medio-ambiente">Sello CAME Sustentable</h2>
-
-
+                    <div class="row mt-5">
+                        <div class="col-12">
+                            <h3 class="subtitulo--magical nuevas-comisiones">Sello CAME Sustentable</h3>
+                            <img src="images/logos/sello_sustentable.png" alt="Sello CAME Sustentable"
+                                style="width: 15rem; margin-right: 1rem;">
+                        </div>
+                        <div class="row">
+                            <div class="col-md-8">
                                 <ul>
-                                    <li>Empresas participantes: finalizamos el año con <strong>7 nuevas empresas
+                                    <li>
+
+                                        Empresas participantes: finalizamos el año con <strong>7 nuevas empresas
                                             certificadas, 1 en proceso de implementación,
                                             1 en proceso de auditoría y 3 empresas realizaron su primera auditoría
                                             de
-                                            validación anual</strong>.</li>
+                                            validación anual</strong>.
+
+
+                                    </li>
                                     <li>Desarrollamos un nuevo protocolo sectorial del Sello Came Sustentable
                                         -textil-,
                                         logrando la certificación de una empresa perteneciente a este sector.</li>
@@ -237,61 +286,147 @@
                                     <li>Dictamos <strong>3 capacitaciones dirigidas a 50 implementadores y 10
                                             auditores</strong>.</li>
                                 </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="entry-image">
+                                    <div class="fslider" data-arrows="true" data-lightbox="gallery"
+                                        data-animation="fade" data-autoplay="5000">
+                                        <div class="flexslider">
+                                            <div class="slider-wrap">
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal01.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal01.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal02.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal02.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal03.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal03.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal04.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal04.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal05.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal05.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal_b_01.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal_b_01.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal_b_02.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal_b_02.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal_b_03.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal_b_03.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal_b_04.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal_b_04.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal_b_05.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal_b_05.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal_b_06.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal_b_06.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal_b_07.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal_b_07.jpg">
+                                                    </a>
+                                                </div>
+                                                <div class="slide">
+                                                    <a href="images/sec-rsds/sust_gal_b_08.jpg"
+                                                        data-lightbox="gallery-item">
+                                                        <img src="images/sec-rsds/sust_gal_b_08.jpg">
+                                                    </a>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
 
 
+
                     <div class="col-12 mt-4 text-justify">
-                        <h2 class="underline--magical medio-ambiente">Responsabilidad Social Interna</h2>
+                        <h3 class="subtitulo--magical nuevas-comisiones">Responsabilidad Social Interna</h3>
                         <div class="row">
 
-                            <div class="col-md-8">
+                            <div class="col-md-6">
                                 <p>Mochi solidaria: entre enero y marzo reunimos <strong>1197 útiles escolares y 73
                                         guardapolvos</strong>.</strong></p>
-
-
-                            </div>
-                            <div class="col-md-4">
-
                                 <div class="entry-image">
-                                    <div class="fslider" data-arrows="false" data-lightbox="gallery">
+                                    <div class="fslider" data-arrows="true" data-lightbox="gallery"
+                                        data-animation="fade" data-autoplay="5000">
                                         <div class="flexslider">
                                             <div class="slider-wrap">
                                                 <div class="slide"><a href="images/sec-rsds/MochiSolidaria5.jpg"
                                                         data-lightbox="gallery-item"><img
-                                                            src="images/sec-rsds/MochiSolidaria5.jpg"
-                                                            alt="Standard Post with Gallery"></a></div>
+                                                            src="images/sec-rsds/MochiSolidaria5.jpg"></a></div>
                                                 <div class="slide"><a href="images/sec-rsds/MochiSolidaria.jpg"
                                                         data-lightbox="gallery-item"><img
-                                                            src="images/sec-rsds/MochiSolidaria.jpg"
-                                                            alt="Standard Post with Gallery"></a></div>
+                                                            src="images/sec-rsds/MochiSolidaria.jpg"></a></div>
                                                 <div class="slide"><a href="images/sec-rsds/MochiSolidaria2.jpg"
                                                         data-lightbox="gallery-item"><img
-                                                            src="images/sec-rsds/MochiSolidaria2.jpg"
-                                                            alt="Standard Post with Gallery"></a></div>
+                                                            src="images/sec-rsds/MochiSolidaria2.jpg"></a></div>
                                                 <div class="slide"><a href="images/sec-rsds/MochiSolidaria3.png"
                                                         data-lightbox="gallery-item"><img
-                                                            src="images/sec-rsds/MochiSolidaria3.png"
-                                                            alt="Standard Post with Gallery"></a></div>
+                                                            src="images/sec-rsds/MochiSolidaria3.png"></a></div>
                                                 <div class="slide"><a href="images/sec-rsds/MochiSolidaria4.jpeg"
                                                         data-lightbox="gallery-item"><img
-                                                            src="images/sec-rsds/MochiSolidaria4.jpeg"
-                                                            alt="Standard Post with Gallery"></a></div>
+                                                            src="images/sec-rsds/MochiSolidaria4.jpeg"></a></div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
+
+
                             </div>
-                            <div class="col-md-12">
+                            <div class="col-md-6">
+
                                 <p>Oficina verde: reunimos <strong>246 bolsas de materiales reciclables y 400 pilas
                                         y baterías en desuso</strong>. Los materiales reciclables fueron entregados
                                     a la Cooperativa El Amanecer de los Cartoneros.
 
                                 </p>
 
-
                             </div>
+
 
                         </div>
                     </div>

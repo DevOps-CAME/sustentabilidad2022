@@ -255,6 +255,9 @@ html {
 .nuevas-comisiones.portada {
   background: #1298b7;
 }
+#nuevas-comisiones strong {
+  color: #1298b7;
+}
 
 .table tr th {
   border-right: 1px solid #f2f2f2;
