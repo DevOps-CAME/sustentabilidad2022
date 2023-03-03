@@ -25,96 +25,96 @@
         <section id="nuevas-comisiones">
             <div class="content-wrap">
                 <div class="container clearfix">
+                    <h2 class="subtitulo--magical nuevas-comisiones">Alianzas</h2>
 
-                    <div class="col-12 mt-4 text-justify">
-                        <h2 class="subtitulo--magical nuevas-comisiones">Alianzas</h2>
-                        <p>
-                            Por séptimo año, fuimos aliados de difusión y asesoramiento de proyectos para los
-                            Premios Verdes,
-                            brindando asesoría a <strong>10 proyectos</strong> durante el proceso de inscripción.
-                        </p>
-                    </div>
                     <div class="row">
-                        <div class="col-md-4">
-                            <p>
-                                Junto a UNICEF Argentina, capacitamos a más de 67 representantes de entidades,
-                                pymes y emprendedores,
-                                en políticas de cuidado para el sector privado. A su vez, participamos en mesas
-                                de debate público-privadas.
-                            </p>
-                            <div class="entry-image">
-                                <div class="fslider" data-arrows="true" data-lightbox="gallery" data-animation="fade"
-                                    data-autoplay="5000">
-                                    <div class="flexslider">
-                                        <div class="slider-wrap">
-                                            <div class="slide">
-                                                <a href="images/sec-rsds/1Pymes-CAME-UNICEF.jpeg"
-                                                    data-lightbox="gallery-item">
-                                                    <img src="images/sec-rsds/1Pymes-CAME-UNICEF.jpeg">
-                                                </a>
-                                            </div>
-                                            <div class="slide">
-                                                <a href="images/sec-rsds/2Pymes-CAME-UNICEF.jpeg"
-                                                    data-lightbox="gallery-item">
-                                                    <img src="images/sec-rsds/2Pymes-CAME-UNICEF.jpeg">
-                                                </a>
-                                            </div>
-                                            <div class="slide">
-                                                <a href="images/sec-rsds/3Pymes-CAME-UNICEF.jpeg"
-                                                    data-lightbox="gallery-item">
-                                                    <img src="images/sec-rsds/3Pymes-CAME-UNICEF.jpeg">
-                                                </a>
-                                            </div>
 
-                                            <div class="slide">
-                                                <a href="images/sec-rsds/5Pymes-CAME-UNICEF.jpeg"
-                                                    data-lightbox="gallery-item">
-                                                    <img src="images/sec-rsds/5Pymes-CAME-UNICEF.jpeg">
-                                                </a>
-                                            </div>
-                                            <div class="slide">
-                                                <a href="images/sec-rsds/6Pymes-CAME-UNICEF.jpeg"
-                                                    data-lightbox="gallery-item">
-                                                    <img src="images/sec-rsds/6Pymes-CAME-UNICEF.jpeg">
-                                                </a>
-                                            </div>
-                                            <div class="slide">
-                                                <a href="images/sec-rsds/7Pymes-CAME-UNICEF.jpeg"
-                                                    data-lightbox="gallery-item">
-                                                    <img src="images/sec-rsds/7Pymes-CAME-UNICEF.jpeg">
-                                                </a>
-                                            </div>
-                                            <div class="slide">
-                                                <a href="images/sec-rsds/8Pymes-CAME-UNICEF.jpeg"
-                                                    data-lightbox="gallery-item">
-                                                    <img src="images/sec-rsds/8Pymes-CAME-UNICEF.jpeg">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                        <div class="col-md-4">
+                            <blockquote>
+                                <p>
+                                    Por séptimo año, fuimos aliados de difusión y asesoramiento de proyectos para los
+                                    Premios Verdes,
+                                    brindando asesoría a <strong>10 proyectos</strong> durante el proceso de
+                                    inscripción.
+                                </p>
+                            </blockquote>
+                        </div>
+                        <div class="col-md-4">
+                            <blockquote>
+                                <p>Junto con el Consorcio internacional "Carbon Trust" organizamos 2 webinars
+                                    llamados
+                                    “Enverdecimiento de las finanzas en Argentina para combatir el cambio
+                                    climático y promover la inclusión".
+                                    En ellos, <strong>capacitamos a más de 60 personas</strong> en acceso a
+                                    herramientas de financiamiento con tasas preferenciales,
+                                    para descuento de cheques a través de un panel verde, creado por el Mercado
+                                    Argentino de Valores.
+                                </p>
+                            </blockquote>
+                        </div>
+                        <div class="col-md-4">
+                            <blockquote>
+                                <p>Dictamos un webinar junto a Low Carbon Business Action LATAM para la
+                                    presentación de tecnologías de origen europeo,
+                                    disponibles para la mejora continua del sector lácteo. Principalmente, para
+                                    la reducción de emisiones,
+                                    la economía circular y la eficiencia, y promover el programa “Low Carbon
+                                    Business and Circular Economy".
+                                    Tuvo una <strong>participación de 62 asistentes.</strong>
+                                </p>
+                            </blockquote>
+                        </div>
+
+                        <div class="col-md-4">
+                            <blockquote>
+                                <p>
+                                    Junto a UNICEF Argentina, capacitamos a más de 67 representantes de entidades,
+                                    pymes y emprendedores,
+                                    en políticas de cuidado para el sector privado. A su vez, participamos en mesas
+                                    de debate público-privadas.
+                                </p>
+                            </blockquote>
+                        </div>
+                        <div class="col-md-8">
+
+
+
+                            <div class="masonry-thumbs grid-container grid-5 has-init-isotope" data-big="1"
+                                data-lightbox="gallery" style="position: relative; height: 585.564px;">
+                                <a class="grid-item grid-item-big" href="images/sec-rsds/1Pymes-CAME-UNICEF.jpeg"
+                                    data-lightbox="gallery-item"
+                                    style="position: absolute; left: 0%; top: 0px; width: 519.188px;"><img
+                                        src="images/sec-rsds/1Pymes-CAME-UNICEF.jpeg"></a>
+                                <a class="grid-item" href="images/sec-rsds/2Pymes-CAME-UNICEF.jpeg"
+                                    data-lightbox="gallery-item"
+                                    style="position: absolute; left: 0%; top: 195.188px; width: 259.594px;"><img
+                                        src="images/sec-rsds/2Pymes-CAME-UNICEF.jpeg"></a>
+                                <a class="grid-item" href="images/sec-rsds/3Pymes-CAME-UNICEF.jpeg"
+                                    data-lightbox="gallery-item"
+                                    style="position: absolute; left: 0%; top: 390.375px; width: 259.594px;"><img
+                                        src="images/sec-rsds/3Pymes-CAME-UNICEF.jpeg"></a>
+                                <a class="grid-item" href="images/sec-rsds/5Pymes-CAME-UNICEF.jpeg"
+                                    data-lightbox="gallery-item"
+                                    style="position: absolute; left: 0%; top: 585.564px; width: 259.594px;"><img
+                                        src="images/sec-rsds/5Pymes-CAME-UNICEF.jpeg"></a>
+                                <a class="grid-item" href="images/sec-rsds/6Pymes-CAME-UNICEF.jpeg"
+                                    data-lightbox="gallery-item"
+                                    style="position: absolute; left: 0%; top: 780.751px; width: 259.594px;"><img
+                                        src="images/sec-rsds/6Pymes-CAME-UNICEF.jpeg"></a>
+                                <a class="grid-item" href="images/sec-rsds/7Pymes-CAME-UNICEF.jpeg"
+                                    data-lightbox="gallery-item"
+                                    style="position: absolute; left: 0%; top: 975.938px; width: 259.594px;"><img
+                                        src="images/sec-rsds/7Pymes-CAME-UNICEF.jpeg"></a>
+                                <a class="grid-item" href="images/sec-rsds/8Pymes-CAME-UNICEF.jpeg"
+                                    data-lightbox="gallery-item"
+                                    style="position: absolute; left: 0%; top: 1171.13px; width: 259.594px;"><img
+                                        src="images/sec-rsds/8Pymes-CAME-UNICEF.jpeg"></a>
+
+
                             </div>
-                        </div>
-                        <div class="col-md-4">
-                            <p>Junto con el Consorcio internacional "Carbon Trust" organizamos 2 webinars
-                                llamados
-                                “Enverdecimiento de las finanzas en Argentina para combatir el cambio
-                                climático y promover la inclusión".
-                                En ellos, <strong>capacitamos a más de 60 personas</strong> en acceso a
-                                herramientas de financiamiento con tasas preferenciales,
-                                para descuento de cheques a través de un panel verde, creado por el Mercado
-                                Argentino de Valores.
-                            </p>
-                        </div>
-                        <div class="col-md-4">
-                            <p>Dictamos un webinar junto a Low Carbon Business Action LATAM para la
-                                presentación de tecnologías de origen europeo,
-                                disponibles para la mejora continua del sector lácteo. Principalmente, para
-                                la reducción de emisiones,
-                                la economía circular y la eficiencia, y promover el programa “Low Carbon
-                                Business and Circular Economy".
-                                Tuvo una <strong>participación de 62 asistentes.</strong>
-                            </p>
+
+
+
                         </div>
                     </div>
 
@@ -175,27 +175,27 @@
                                 Justo”.
                             </p>
                         </div>
-                    </div>
 
-                    <h3 class="subtitulo--magical nuevas-comisiones">Comercio</h3>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <img src="images/logos/comercio@4x.png" alt="Comercio"
-                                style="width: 15rem; margin-right: 1rem;">
-                            <p>Fair Trade Latinoamérica: trabajamos conjuntamente en la creación de una alianza
-                                que tiene como fin
-                                capacitar y difundir los conceptos y buenas prácticas vinculadas al “Comercio
-                                Justo”.
+
+                        <div class="col-12 mb-4 text-justify">
+                            <h3 class="subtitulo--magical nuevas-comisiones">Comercio</h3>
+                            <p>
+                                <img src="images/logos/comercio@4x.png" alt="Comercio"
+                                    style="width: 15rem; float:left; margin-right: 1rem;">
+                                Trabajamos en el fortalecimiento de la primera Biblioteca Virtual de Buenas Prácticas
+                                Sustentables en CCA.
                             </p>
-                        </div>
 
+                        </div>
                     </div>
+
 
                     <h3 class="subtitulo--magical nuevas-comisiones">Financiamiento</h3>
-                    <img src="images/logos/financiamiento@4x.png" alt="Financiamiento"
-                        style="width: 15rem; margin-right: 1rem;">
+
                     <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-md-6">
+                            <img src="images/logos/financiamiento@4x.png" alt="Financiamiento"
+                                style="width: 15rem; margin-right: 1rem;" class="mb-4">
                             <p>A partir de la próxima convocatoria de Crédito Fiscal del Ministerio de Trabajo,
                                 se podrá solicitar financiamiento para implementar y certificar el Sello Came
                                 Sustentable.
@@ -207,24 +207,23 @@
                                 prácticas sociales y ambientales.
                             </p>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-6">
                             <p>De la mano del Ejército Argentino continuamos trabajando en la plataforma
                                 Postularme.
                                 Al mes de diciembre, este espacio virtual de inserción laboral contaba con
                                 <strong>752 postulantes,
                                     125 empresas y 75 casos de éxito</strong>.
                             </p>
-                        </div>
-                        <div class="col-md-4">
                             <div class="entry-image">
                                 <a href="https://www.postularme.com.ar" target="_blank"><img
                                         src="images/sec-rsds/postularme.jpg" alt="Postularme WebPage"></a>
                             </div>
                         </div>
 
+
                     </div>
 
-                    <div class="row">
+                    <div class="row mb-5">
 
                         <div class="col-md-12">
                             <h3 class="subtitulo--magical nuevas-comisiones">Comunicación con impacto</h3>
@@ -241,12 +240,13 @@
 
                     <div class="row justify-content-center mt-4">
                         <h2 class="underline--magical nuevas-comisiones">Sustentabilidad</h2>
+                        <p>Realizamos el séptimo Reporte de Gestión Social y Ambiental de la entidad en formato
+                            micrositio, el cual cuenta con 722 visitas.</p>
                         <p class="text-center"><a href="https://came.org.ar/sustentabilidad2021/" target="_blank"><img
                                     src="images/tapas/2021.png" alt="Reporte de Gestión Social y Ambiental 2021"
                                     style="width: 20rem;"></a></p>
 
-                        <p>Realizamos el séptimo Reporte de Gestión Social y Ambiental de la entidad en formato
-                            micrositio, el cual cuenta con 722 visitas.</p>
+
 
 
                     </div>
@@ -423,6 +423,9 @@
                                         y baterías en desuso</strong>. Los materiales reciclables fueron entregados
                                     a la Cooperativa El Amanecer de los Cartoneros.
 
+                                </p>
+                                <p class="text-center">
+                                    <img src="images/etiqueta-comunidad.png" style="width: 20rem;" class="center">
                                 </p>
 
                             </div>

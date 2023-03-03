@@ -117,7 +117,8 @@
                                             <h3 class="card-header font-primary p-4 ods-1">ODS 1. Poner fin a la pobreza
                                                 en todas sus formas y en todo el mundo</h3>
                                             <div class="card-body p-4">
-                                                Indicador 1: Número de leyes promovidas y logradas para el beneficio de
+                                                <strong>Indicador 1:</strong> Número de leyes promovidas y logradas para
+                                                el beneficio de
                                                 las pymes
 
                                                 <div class="table-responsive">
@@ -182,7 +183,8 @@
                                             <h3 class="card-header font-primary p-4 ods-2">ODS 2. Poner fin a la pobreza
                                                 en todas sus formas y en todo el mundo</h3>
                                             <div class="card-body p-4">
-                                                Indicador 1: Número de acciones permanentes para promover el contacto
+                                                <strong>Indicador 1:</strong> Número de acciones permanentes para
+                                                promover el contacto
                                                 directo entre pequeños y medianos productores y consumidores, eliminando
                                                 los intermediarios
 
@@ -249,7 +251,8 @@
                                                     </table>
                                                 </div>
 
-                                                Indicador 2: Cantidad de empresas en las que se practica agricultura y
+                                                <strong>Indicador 2:</strong> Cantidad de empresas en las que se
+                                                practica agricultura y
                                                 producción sostenible
 
                                                 <div class="table-responsive">
@@ -292,7 +295,8 @@
                                                     </table>
                                                 </div>
 
-                                                Indicador 3: Cantidad de beneficiarios alcanzados a través del proyecto
+                                                <strong>Indicador 3:</strong> Cantidad de beneficiarios alcanzados a
+                                                través del proyecto
                                                 Plato Lleno (donación de platos de comida de las oficinas de CAME)
 
                                                 <canvas id="ods2-ind3"></canvas>
@@ -307,7 +311,7 @@
                                                             ],
                                                             datasets: [{
                                                                 label: "Cantidad",
-                                                                data: [3698, 5029, 2769, 4046, 877],
+                                                                data: [574, 396, 0, 0, 236],
                                                                 backgroundColor: "#f4e7ca",
                                                                 borderColor: "#d3a029",
                                                                 borderWidth: 1,
@@ -357,7 +361,8 @@
                                                 educación inclusiva y equitativa de calidad y promover oportunidades de
                                                 aprendizaje permanente para todos</h3>
                                             <div class="card-body p-4">
-                                                Indicador 1: Horas de capacitación brindadas desde el área de CAME
+                                                <strong>Indicador 1:</strong> Horas de capacitación brindadas desde el
+                                                área de CAME
                                                 Educativa
 
                                                 <canvas id="ods4-ind1"></canvas>
@@ -435,7 +440,8 @@
 
                                                     </table>
                                                 </div> -->
-                                                Indicador 2: Cantidad de participantes en capacitaciones realizadas por
+                                                <strong>Indicador 2:</strong> Cantidad de participantes en
+                                                capacitaciones realizadas por
                                                 CAME Educativa
                                                 <canvas id="ods4-ind2"></canvas>
                                                 <script>
@@ -515,7 +521,8 @@
 
                                                     </table>
                                                 </div> -->
-                                                Indicador 3: Cantidad de colaboradores de CAME becados para desarrollo
+                                                <strong>Indicador 3:</strong> Cantidad de colaboradores de CAME becados
+                                                para desarrollo
                                                 de carrera
                                                 <canvas id="ods4-ind3"></canvas>
                                                 <script>
@@ -527,11 +534,33 @@
                                                             labels: ['2018', '2019', '2020', '2021', '2022'],
                                                             datasets: [{
                                                                 label: "Cantidad",
-                                                                data: [25, 19, 17, 20, 14],
+                                                                data: [25, 19, 17, 20, 14, 0],
                                                                 backgroundColor: '#f0c7cc',
                                                                 borderColor: '#c31f33',
                                                                 borderWidth: 1
                                                             }]
+                                                        },
+                                                        options: {
+                                                            scales: {
+                                                                y: {
+                                                                    beginAtZero: true
+                                                                }
+                                                            },
+                                                            plugins: {
+                                                                legend: {
+                                                                    display: true,
+                                                                    labels: {
+                                                                        usePointStyle: true
+                                                                    }
+                                                                }
+                                                            },
+                                                            elements: {
+                                                                bar: {
+                                                                    borderWidth: 1,
+                                                                    borderRadius: 4,
+                                                                    borderSkipped: false
+                                                                }
+                                                            }
                                                         }
                                                     });
                                                 };
@@ -588,7 +617,8 @@
                                                 género y empoderar a todas las mujeres y las niñas
                                             </h3>
                                             <div class="card-body p-4">
-                                                Indicador 1: Proporción de mujeres respecto al total del personal de
+                                                <strong>Indicador 1:</strong> Proporción de mujeres respecto al total
+                                                del personal de
                                                 CAME
 
                                                 <canvas id="ods5-ind1"></canvas>
@@ -679,7 +709,8 @@
 
                                                     </table>
                                                 </div> -->
-                                                Indicador 2: Número de acciones lideradas por CAME Mujeres para promover
+                                                <strong>Indicador 2:</strong> Número de acciones lideradas por CAME
+                                                Mujeres para promover
                                                 la igualdad de género y el empoderamiento de las mujeres
 
                                                 <div class="table-responsive">
@@ -770,7 +801,8 @@
                                                 crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno
                                                 y productivo y el trabajo decente para todos</h3>
                                             <div class="card-body p-4">
-                                                Indicador 1: Proporción de empleados entre 20 y 30 años (promoción del
+                                                <strong>Indicador 1:</strong> Proporción de empleados entre 20 y 30 años
+                                                (promoción del
                                                 empleo joven) de CAME
 
                                                 <canvas id="ods8-i1"></canvas>
@@ -857,7 +889,8 @@
 
                                                     </table>
                                                 </div> -->
-                                                Indicador 2: Tasas de frecuencia de lesiones ocupacionales mortales y no
+                                                <strong>Indicador 2:</strong> Tasas de frecuencia de lesiones
+                                                ocupacionales mortales y no
                                                 mortales en CAME
                                                 <div class="table-responsive">
                                                     <table class="table table-hover">
@@ -916,7 +949,8 @@
                                                 sostenible y fomentar la innovación
                                             </h3>
                                             <div class="card-body p-4">
-                                                Indicador 1: Cantidad de consultas recibidas de entidades, pymes y
+                                                <strong>Indicador 1:</strong> Cantidad de consultas recibidas de
+                                                entidades, pymes y
                                                 emprendedores dirigidas al área de financiamiento de CAME
                                                 <!-- <div class="table-responsive">
                                                     <table class="table table-hover">
@@ -963,7 +997,8 @@
                                                 </script>
 
 
-                                                Indicador 2: Cantidad de vistas en vivo y de reproducciones de
+                                                <strong>Indicador 2:</strong> Cantidad de vistas en vivo y de
+                                                reproducciones de
                                                 contenidos del departamento de Financiamiento de CAME en YouTube
                                                 <!-- <div class="table-responsive">
                                                     <table class="table table-hover">
@@ -1029,7 +1064,8 @@
 
                                             </h3>
                                             <div class="card-body p-4">
-                                                Indicador 1: Número de iniciativas sustentables en CCA apoyados por CAME
+                                                <strong>Indicador 1:</strong> Número de iniciativas sustentables en CCA
+                                                apoyados por CAME
                                                 Comercio
                                                 <div class="table-responsive">
                                                     <table class="table table-hover">
@@ -1049,7 +1085,8 @@
                                                         </tbody>
                                                     </table>
                                                 </div>
-                                                Indicador 2: Número de localidades con asistencia técnica de CAME
+                                                <strong>Indicador 2:</strong> Número de localidades con asistencia
+                                                técnica de CAME
                                                 Comercio para el desarrollo de CCA
 
                                                 <div class="table-responsive">
@@ -1088,7 +1125,8 @@
 
                                             </h3>
                                             <div class="card-body p-4">
-                                                Indicador 1: kg de material reciclable recuperado en promedio por mes en
+                                                <strong>Indicador 1:</strong> kg de material reciclable recuperado en
+                                                promedio por mes en
                                                 las oficinas de CAME
 
                                                 <div class="table-responsive">
@@ -1125,7 +1163,8 @@
                                                         </tbody>
                                                     </table>
                                                 </div>
-                                                Indicador 2: kg de comida (excedente) recuperada en las oficinas de CAME
+                                                <strong>Indicador 2:</strong> kg de comida (excedente) recuperada en las
+                                                oficinas de CAME
                                                 donada a comedores de la Ciudad Autónoma de Buenos Aires
                                                 <!-- <div class="table-responsive">
                                                     <table class="table table-hover">
@@ -1181,7 +1220,8 @@
                                                 };
                                                 </script>
 
-                                                Indicador 3: Número de estrategias o políticas de turismo sostenible y
+                                                <strong>Indicador 3:</strong> Número de estrategias o políticas de
+                                                turismo sostenible y
                                                 de planes de acción implantados desde CAME Turismo
                                                 <div class="table-responsive">
                                                     <table class="table table-hover">
@@ -1252,7 +1292,8 @@
                                                 acceso a la justicia para todos y construir a todos los niveles
                                                 instituciones eficaces e inclusivas que rindan cuentas</h3>
                                             <div class="card-body p-4">
-                                                Indicador 1: Total de Delegados provinciales de CAME que tienen
+                                                <strong>Indicador 1:</strong> Total de Delegados provinciales de CAME
+                                                que tienen
                                                 credencial y votaron en las elecciones de cambio de autoridades
 
 
@@ -1295,7 +1336,7 @@
                                                     var chart = new Chart(ods16i1, {
                                                         type: 'bar',
                                                         data: {
-                                                            labels: ['2019', '2020', '2021', '2022'],
+                                                            labels: ['2019', '2020*', '2021', '2022'],
                                                             datasets: [{
                                                                 label: "Cantidad",
                                                                 data: [90, 0, 90, 145],
@@ -1303,11 +1344,22 @@
                                                                 borderColor: '#02558b',
                                                                 borderWidth: 1
                                                             }]
+                                                        },
+                                                        options: {
+                                                            legend: {
+                                                                display: true,
+                                                                labels: {
+                                                                    filter: function(label) {
+                                                                        return label.text != '2020*';
+                                                                    }
+                                                                }
+                                                            }
                                                         }
                                                     });
                                                 };
                                                 </script>
 
+                                                <p>* 2020 - No hubo elecciones por contexto pandemia</p>
 
                                             </div>
                                         </div>
@@ -1329,7 +1381,8 @@
 
                                             </h3>
                                             <div class="card-body p-4">
-                                                Indicador 1: Número de alianzas y convenios específicos del tema
+                                                <strong>Indicador 1:</strong> Número de alianzas y convenios específicos
+                                                del tema
                                                 firmados por CAME y vigentes
 
 
@@ -1394,7 +1447,7 @@
                                                             </tr>
                                                         </tbody>
                                                     </table>
-                                                    Indicador 2: Convenios específicos de
+                                                    <strong>Indicador 2:</strong> Convenios específicos de
                                                     financiamiento/tecnología/conocimientos firmados por CAME y vigentes
 
                                                     <div class="table-responsive">
