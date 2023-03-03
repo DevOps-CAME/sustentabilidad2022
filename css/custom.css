@@ -391,6 +391,7 @@ html {
   .slider-inner {
     background-position: 0% 100%;
     background-size: 170%;
+    top: -20vh;
   }
 }
 
@@ -402,6 +403,8 @@ html {
   }
   .slider-inner {
     background-position: 60% 100%;
+    background-size: 100%;
+    top: -15vh;
     background-size: 100%;
   }
   #sl-mundito {
@@ -426,9 +429,6 @@ html {
     text-align: right;
     width: 90%;
   }
-  .slider-inner {
-    background-size: 100%;
-  }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -439,6 +439,7 @@ html {
   .slider-inner {
     background-position: 60% 100%;
     background-size: 140%;
+    top: 0vh;
   }
   #sl-mundito {
     width: 100vw;
@@ -472,7 +473,9 @@ html {
   .slider-inner {
     background-position: 60% 100%;
     background-size: 100%;
+    top: 0vh;
   }
+
   #sl-mundito {
     width: 100vw;
     bottom: 0;
@@ -499,6 +502,7 @@ html {
   .slider-inner {
     background-position: 60% 100%;
     background-size: 100%;
+    top: 0vh;
   }
   #sl-mundito {
     width: 100vw;
@@ -522,6 +526,7 @@ html {
   .slider-inner {
     background-position: 60% 100%;
     background-size: 100%;
+    top: 0vh;
   }
   #sl-mundito {
     width: 100vw;
@@ -556,6 +561,7 @@ html {
   .slider-inner {
     background-position: 60% 100%;
     background-size: 100%;
+    top: 0vh;
   }
   #sl-mundito {
     width: 100vw;

@@ -425,7 +425,7 @@
 
                                 </p>
                                 <p class="text-center">
-                                    <img src="images/etiqueta-comunidad.png" style="width: 20rem;" class="center">
+                                    <img src="images/reciclable.png" style="width: 20rem;" class="center">
                                 </p>
 
                             </div>
