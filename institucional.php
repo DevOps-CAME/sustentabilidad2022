@@ -43,40 +43,28 @@
                                         <img src="images/Sr_Alfredo_Gonzalez.jpg"
                                             style="width: 31%;float: left;margin-right: 2rem;margin-bottom: 1.5rem;margin-top: 1.5rem;"
                                             alt="Sr. Alfredo González">
-                                        <p> Celbramos la publicación de un nuevo Reporte de Gestión Social y Ambiental
-                                            de nuestra entidad, aquella que día a día trabaja incansablemente para la
-                                            recuperación y el fortalecimiento del entramado Pyme nacional, motor
-                                            productivo de nuestro país. </p>
+                                            
+                                            <p> Los primeros meses del 2023 nos encuentran, una vez más, publicando de manera 
+                                            ininterrumpida las gestiones que llevamos adelante durante el 2022, para continuar 
+                                            acompañando con gran compromiso a nuestras entidades, pymes y emprendedores en sus 
+                                            procesos de reconversión hacia el Triple Impacto. </p>
 
-                                        <p>Con este espíritu y en el marco de un nuevo año que nos recibe con grandes
-                                            esperanzas, continuamos impulsando un desarrollo económico con mayor
-                                            conciencia social y ambiental, porque estamos convencidos de que ese es el
-                                            único camino que nos llevará hacia la preservación de nuestra casa común.
-                                            Este documento es un fiel reflejo de estas palabras, así como también de
-                                            aquel compromiso con la sustentabilidad que CAME asumió con gran
-                                            responsabilidad hace más de diez años.</p>
+                                        <p>A lo largo de este Reporte, se visualiza el camino que hemos recorrido dando respuestas 
+                                            concretas a nuestros públicos estratégicos y al desafío que presenta reconvertirse
+                                             en dirección a un nuevo paradigma de negocios, en donde la producción con mayor 
+                                             conciencia social y ambiental se encuentran en podio de los requerimientos de los mercados.</p>
 
-                                        <p>Recorriendo este reporte no solo podrán conocer los desafíos que adoptamos,
-                                            sino también los logros alcanzados en equipo a lo largo y a lo ancho del
-                                            país, entre los que se destacan: los avances de nuestro sello de Triple
-                                            Impacto CAME Sustentable, nuestro compromiso con la igualdad de género, la
-                                            educación, la innovación y el cuidado de recursos naturales, entre otras
-                                            banderas que alzamos para acompañar e incentivar a las entidades, pymes y
-                                            emprendedores a ser protagonistas de este cambio de paradigma económico que
-                                            requiere el compromiso social y ambiental de todos/as. </p>
+                                        <p>Solo mencionar que, por ejemplo, durante el 2022 capacitamos a más de 90 mil personas; 
+                                            realizamos más de 90 jornadas de asistencia técnica para el desarrollo de Centros 
+                                            Comerciales Abiertos (CCA); asesoramos en materia de acceso al financiamiento a 992 
+                                            entidades, pymes y emprendedores, y continuamos viajando a diferentes puntos del 
+                                            país para que cada vez más personas conozcan CAME Sustentable, la certificación 
+                                            de calidad —única en su tipo en Latinoamérica— que desarrollamos para impulsar 
+                                            el desarrollo sostenible en las empresas argentinas. </p>
 
-                                        <p>Sabemos que el camino del Triple Impacto aún es largo y que nos encontramos
-                                            en una etapa compleja, atravesando todavía las consecuencias que nos ha
-                                            dejado la crisis del COVID-19. En este escenario, somos conscientes de que
-                                            es fundamental no solo la asistencia a nuestras pymes, sino la construcción
-                                            colectiva a través del diálogo constante de todos los sectores, para
-                                            consensuar soluciones que nos permitan afrontar los desafíos actuales,
-                                            asumiendo el rol social y ambiental que nos toca como la gran entidad
-                                            gremial empresaria que somos. </p>
-
-                                        <p>Nos motiva seguir planteándonos desafíos superadores, y continuar trabajando
-                                            con vocación, unión y valentía en pos de reforzar la certeza de que un
-                                            empresariado pyme responsable y un futuro sostenible son posibles. </p>
+                                        <p>Con gran orgullo, los invito a recorrer este documento tan importante para todos 
+                                            nosotros y conocer así los proyectos y acciones que impulsamos para seguir fortaleciendo 
+                                            al entramado pyme federal, motor de la economía de nuestra querida Argentina. </p>
 
 
                                         <h4 class="text-center">
