@@ -43,7 +43,7 @@
                                         <img src="images/Sr_Alfredo_Gonzalez.jpg"
                                             style="width: 31%;float: left;margin-right: 2rem;margin-bottom: 1.5rem;margin-top: 1.5rem;"
                                             alt="Sr. Alfredo González">
-                                        <p> Celebramos la publicación de un nuevo Reporte de Gestión Social y Ambiental
+                                        <p> Celbramos la publicación de un nuevo Reporte de Gestión Social y Ambiental
                                             de nuestra entidad, aquella que día a día trabaja incansablemente para la
                                             recuperación y el fortalecimiento del entramado Pyme nacional, motor
                                             productivo de nuestro país. </p>
